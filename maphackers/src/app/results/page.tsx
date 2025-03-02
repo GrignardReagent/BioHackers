@@ -1,6 +1,6 @@
 'use client';
 
-import { Box, Button, Checkbox, Image, SimpleGrid, Stack, Switch } from "@mantine/core";
+import { Box, Button, Checkbox, Image, SimpleGrid, Stack, Switch, Textarea, Title } from "@mantine/core";
 import { useEffect, useRef, useState } from "react";
 
 export default function Home() {
@@ -18,6 +18,10 @@ export default function Home() {
   const [zoomLevel, setZoomLevel] = useState(1);
 
   const imageRef = useRef<HTMLDivElement>(null);
+
+  const [showMagic, setShowMagic] = useState(false);
+
+  const magicResult = 'Noise ramps up slowly for the first 2 years, then jumps once the new runway is fully operational.\nAQI (Air Quality) gradually worsens at first, then accelerates as flight operations increase, before tapering (logistic-style).\nCO₂ Emissions stay moderate initially, then exponential growth kicks in after a certain threshold.\nBiodiversity experiences a delayed decline (lag) after construction begins.\nTraffic Congestion follows a logistic curve—slow growth at first, then a sharp rise before it levels off.\nEmployment jumps in the early years (construction jobs), then plateaus.'
 
   const handleClick = (e: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
     if (zoomLevel === 2) {
@@ -126,9 +130,12 @@ export default function Home() {
             </Stack>
           </div>
         </SimpleGrid>
-
-        <div>
-          <Image src={'heathrow.png'} width={'50px'} />
+        
+        <Button m={3} onClick={() => setShowMagic(true)}>Magic</Button>
+        <div style={{ display: showMagic ? 'block' : 'none' }}>
+          <Title order={2}>Predictions</Title>
+          <Textarea placeholder="Predictions" m={3} value={magicResult} readOnly rows={10} />
+          <Image src={'heathrow.png'} w={1000} />
         </div>
       </div>
     </>

@@ -10,8 +10,20 @@ export default function Home() {
   const [visible, setVisible] = useState(false);
   const [answer, setAnswer] = useState('');
 
-  const question = 'Whatever';
-  const answer_ = `Pros:\nImproved Transportation Convenience: The new runway can alleviate flight congestion, enhancing airport capacity and flight efficiency.\nEconomic Growth: It will boost employment, business, and tourism, increasing regional economic vitality.\nEnhanced International Connectivity: Strengthening Heathrow Airport’s global competitiveness, attracting more flights and commercial activities.\n\nCons:\nEnvironmental Impact: Noise pollution, air pollution, and ecological damage, especially to green spaces and waterways.\nSocial Impact: Nearby residents may be disturbed by noise and pollution, possibly requiring relocation, leading to changes in community structure.\nHigh Costs: The runway construction requires significant investment, which could put pressure on local finances.\n\n Mitigation Strategies:\nNoise Control: Optimize flight paths and install noise barriers.\nEnvironmental Protection: Strengthen ecological restoration and reduce emissions.\nCommunity Compensation: Provide relocation support or resettlement options to reduce social conflicts.`;
+  const question = 'Analyze the advantages and disadvantages of expanding a runway in this area for Heathrow Airport, and also suggest any potential mitigation strategies.';
+  const answer_ = `Pros:
+Improved Transportation and Connectivity: The new runway will enhance the transportation network, alleviating congestion and increasing international connectivity. It will support greater flight operations, boosting London's position as a global aviation hub.
+Economic Growth: The early surge in employment opportunities will benefit construction workers, followed by long-term benefits through aviation-related industries. This will positively impact both residential (15%) and industrial (1%) areas, leading to job creation.
+Development Potential: The expansion will boost local infrastructure and business activity, particularly in the residential (15%) and industrial (1%) zones, making the area more economically viable.
+Cons:
+Environmental Impact: Increased noise levels and air quality (AQI) will have a detrimental effect on both green belts (62%) and waterways (1%). The higher CO₂ emissions will impact biodiversity, with significant risks to the environment as the biodiversity index declines.
+Traffic Congestion: The growth of traffic congestion, marked by a sharp increase, will impact residential areas, leading to urban strain, longer commute times, and lower quality of life.
+Land Use: Conversion of farmland (21%) and green belts (62%) for expansion may lead to loss of agricultural land and natural habitats, contributing to environmental degradation.
+Mitigation Strategies:
+Noise and Air Pollution Control: Implement noise barriers and optimize flight paths to minimize disruption to residential and green belt areas. Use sustainable aircraft technologies to reduce emissions.
+Ecological Restoration: Protect nearby waterways and green belts, and offset habitat loss with local conservation projects to maintain biodiversity.
+Traffic Management: Improve local transport infrastructure, enhance public transport options, and consider congestion pricing to reduce traffic stress.
+Community Support: Offer compensation or relocation options to residents in heavily affected areas, especially near noise-prone zones.`;
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
