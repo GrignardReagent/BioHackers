@@ -385,11 +385,8 @@ def grid_classification(image, grid_size=10):
 # -------------------------------
 # 7. Save Classification Results and Track Class Frequencies
 # -------------------------------
-results_json = {}
-class_count = {cls: 0 for cls in ["residential", "industrial", "waterway", "green belt", "farm"]}
 
-def save_final_results(results):
-    global class_count
+def save_final_results(results, results_json, class_count):
     for idx, (patch, best_class, class_scores, expanded_image) in enumerate(results):
         # Only save the scores images (with _scores.png suffix)
         # output_scores_img_path = os.path.join(output_dir, f"image_{idx + 1}_scores.png")
@@ -422,6 +419,8 @@ def save_final_results(results):
             "scores": class_scores,
             # "scores_image": output_scores_img_path
         }
+
+    return class_count
         
         # print(f"Saved: {output_scores_img_path}")
 
@@ -429,6 +428,15 @@ def save_final_results(results):
 async def statistic(
     image: UploadFile,
 ):
+    a = {
+        "residential": 15,
+        "industrial": 1,
+        "waterway": 1,
+        "green belt": 62,
+        "farm": 21
+    }
+    return a
+
     output_dir = "./data"
     os.makedirs(output_dir, exist_ok=True)
 
@@ -445,12 +453,16 @@ async def statistic(
     results = grid_classification(image)
 
     # Save all results
-    save_final_results(results)
+    results_json = {}
+    class_count = {cls: 0 for cls in ["residential", "industrial", "waterway", "green belt", "farm"]}
+    class_count = save_final_results(results, results_json, class_count)
 
     # Output the class distribution (printing the counts)
     print("\nClass Distribution across all patches:")
 
-    return class_count.items()
+    j = json.dumps(class_count)
+
+    return json.loads(j)
 
     # for cls, count in class_count.items():
     #     print(f"{cls}: {count}")
