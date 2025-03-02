@@ -2,3 +2,5 @@ model.ckpt
 coregistered_data.tif
 *.tif
 *.tiff
+
+__pycache__/
