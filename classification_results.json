@@ -1,0 +1,4402 @@
+{
+    "image_1": {
+        "best_class": "residential area",
+        "scores": {
+            "residential area": 0.26115572452545166,
+            "industrial area": 0.2446921318769455,
+            "water": 0.21774806082248688,
+            "forest": 0.22549927234649658,
+            "farm": 0.2440265715122223
+        },
+        "expanded_image": "./output/image_1_expanded.png"
+    },
+    "image_2": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2721226215362549,
+            "industrial area": 0.27842992544174194,
+            "water": 0.235654816031456,
+            "forest": 0.2404336780309677,
+            "farm": 0.24645739793777466
+        },
+        "expanded_image": "./output/image_2_expanded.png"
+    },
+    "image_3": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2570505440235138,
+            "industrial area": 0.2731156349182129,
+            "water": 0.2129892259836197,
+            "forest": 0.21205784380435944,
+            "farm": 0.22605261206626892
+        },
+        "expanded_image": "./output/image_3_expanded.png"
+    },
+    "image_4": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23074871301651,
+            "industrial area": 0.2427864670753479,
+            "water": 0.23932263255119324,
+            "forest": 0.25145089626312256,
+            "farm": 0.23185831308364868
+        },
+        "expanded_image": "./output/image_4_expanded.png"
+    },
+    "image_5": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23332777619361877,
+            "industrial area": 0.23766179382801056,
+            "water": 0.2341669201850891,
+            "forest": 0.2499009072780609,
+            "farm": 0.24550628662109375
+        },
+        "expanded_image": "./output/image_5_expanded.png"
+    },
+    "image_6": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.23647308349609375,
+            "industrial area": 0.24575160443782806,
+            "water": 0.24533900618553162,
+            "forest": 0.2258588969707489,
+            "farm": 0.2458513230085373
+        },
+        "expanded_image": "./output/image_6_expanded.png"
+    },
+    "image_7": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2570621371269226,
+            "industrial area": 0.2667059004306793,
+            "water": 0.23449324071407318,
+            "forest": 0.24601782858371735,
+            "farm": 0.2621743381023407
+        },
+        "expanded_image": "./output/image_7_expanded.png"
+    },
+    "image_8": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.25576093792915344,
+            "industrial area": 0.25810253620147705,
+            "water": 0.22707465291023254,
+            "forest": 0.24525094032287598,
+            "farm": 0.25920552015304565
+        },
+        "expanded_image": "./output/image_8_expanded.png"
+    },
+    "image_9": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.21924977004528046,
+            "industrial area": 0.22224654257297516,
+            "water": 0.22383716702461243,
+            "forest": 0.2400708794593811,
+            "farm": 0.22787965834140778
+        },
+        "expanded_image": "./output/image_9_expanded.png"
+    },
+    "image_10": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2519102394580841,
+            "industrial area": 0.265229731798172,
+            "water": 0.23412227630615234,
+            "forest": 0.23540353775024414,
+            "farm": 0.24060197174549103
+        },
+        "expanded_image": "./output/image_10_expanded.png"
+    },
+    "image_11": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21919986605644226,
+            "industrial area": 0.22207927703857422,
+            "water": 0.2397574633359909,
+            "forest": 0.21661339700222015,
+            "farm": 0.22854574024677277
+        },
+        "expanded_image": "./output/image_11_expanded.png"
+    },
+    "image_12": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22158482670783997,
+            "industrial area": 0.22366853058338165,
+            "water": 0.23610012233257294,
+            "forest": 0.2101270705461502,
+            "farm": 0.2191203534603119
+        },
+        "expanded_image": "./output/image_12_expanded.png"
+    },
+    "image_13": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2002301961183548,
+            "industrial area": 0.20628602802753448,
+            "water": 0.22668352723121643,
+            "forest": 0.19691944122314453,
+            "farm": 0.1981905996799469
+        },
+        "expanded_image": "./output/image_13_expanded.png"
+    },
+    "image_14": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2242116928100586,
+            "industrial area": 0.2333880364894867,
+            "water": 0.2349122017621994,
+            "forest": 0.21845382452011108,
+            "farm": 0.22351905703544617
+        },
+        "expanded_image": "./output/image_14_expanded.png"
+    },
+    "image_15": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2372632920742035,
+            "industrial area": 0.25609803199768066,
+            "water": 0.2263590395450592,
+            "forest": 0.22732572257518768,
+            "farm": 0.254727303981781
+        },
+        "expanded_image": "./output/image_15_expanded.png"
+    },
+    "image_16": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22903966903686523,
+            "industrial area": 0.24056370556354523,
+            "water": 0.24336446821689606,
+            "forest": 0.23557430505752563,
+            "farm": 0.23835447430610657
+        },
+        "expanded_image": "./output/image_16_expanded.png"
+    },
+    "image_17": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.26445305347442627,
+            "industrial area": 0.2737120985984802,
+            "water": 0.25101083517074585,
+            "forest": 0.25349822640419006,
+            "farm": 0.25387221574783325
+        },
+        "expanded_image": "./output/image_17_expanded.png"
+    },
+    "image_18": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21117357909679413,
+            "industrial area": 0.2237030565738678,
+            "water": 0.24044466018676758,
+            "forest": 0.23798470199108124,
+            "farm": 0.2126396894454956
+        },
+        "expanded_image": "./output/image_18_expanded.png"
+    },
+    "image_19": {
+        "best_class": "residential area",
+        "scores": {
+            "residential area": 0.26297616958618164,
+            "industrial area": 0.26196616888046265,
+            "water": 0.2404319792985916,
+            "forest": 0.221145898103714,
+            "farm": 0.23026619851589203
+        },
+        "expanded_image": "./output/image_19_expanded.png"
+    },
+    "image_20": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2565351128578186,
+            "industrial area": 0.2748977243900299,
+            "water": 0.24147847294807434,
+            "forest": 0.22669871151447296,
+            "farm": 0.2355729639530182
+        },
+        "expanded_image": "./output/image_20_expanded.png"
+    },
+    "image_21": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2643294632434845,
+            "industrial area": 0.27582335472106934,
+            "water": 0.2164633870124817,
+            "forest": 0.21682330965995789,
+            "farm": 0.2405666708946228
+        },
+        "expanded_image": "./output/image_21_expanded.png"
+    },
+    "image_22": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2514854073524475,
+            "industrial area": 0.2580530345439911,
+            "water": 0.20983509719371796,
+            "forest": 0.21354511380195618,
+            "farm": 0.2237669825553894
+        },
+        "expanded_image": "./output/image_22_expanded.png"
+    },
+    "image_23": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24782676994800568,
+            "industrial area": 0.2511558532714844,
+            "water": 0.2417789250612259,
+            "forest": 0.2473289966583252,
+            "farm": 0.2488851100206375
+        },
+        "expanded_image": "./output/image_23_expanded.png"
+    },
+    "image_24": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24740859866142273,
+            "industrial area": 0.2602623701095581,
+            "water": 0.22698047757148743,
+            "forest": 0.23341530561447144,
+            "farm": 0.22304928302764893
+        },
+        "expanded_image": "./output/image_24_expanded.png"
+    },
+    "image_25": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23545344173908234,
+            "industrial area": 0.2426399290561676,
+            "water": 0.24105237424373627,
+            "forest": 0.25022876262664795,
+            "farm": 0.23732438683509827
+        },
+        "expanded_image": "./output/image_25_expanded.png"
+    },
+    "image_26": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2421976625919342,
+            "industrial area": 0.24690382182598114,
+            "water": 0.24441231787204742,
+            "forest": 0.25607791543006897,
+            "farm": 0.2424173355102539
+        },
+        "expanded_image": "./output/image_26_expanded.png"
+    },
+    "image_27": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2474672496318817,
+            "industrial area": 0.2585371434688568,
+            "water": 0.22685110569000244,
+            "forest": 0.24221622943878174,
+            "farm": 0.2387884259223938
+        },
+        "expanded_image": "./output/image_27_expanded.png"
+    },
+    "image_28": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25385770201683044,
+            "industrial area": 0.26069945096969604,
+            "water": 0.24174043536186218,
+            "forest": 0.2485191822052002,
+            "farm": 0.2582316994667053
+        },
+        "expanded_image": "./output/image_28_expanded.png"
+    },
+    "image_29": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23589277267456055,
+            "industrial area": 0.24954992532730103,
+            "water": 0.22628667950630188,
+            "forest": 0.23587079346179962,
+            "farm": 0.23930494487285614
+        },
+        "expanded_image": "./output/image_29_expanded.png"
+    },
+    "image_30": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2290799617767334,
+            "industrial area": 0.22977083921432495,
+            "water": 0.24660195410251617,
+            "forest": 0.21875526010990143,
+            "farm": 0.2250770628452301
+        },
+        "expanded_image": "./output/image_30_expanded.png"
+    },
+    "image_31": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2065223604440689,
+            "industrial area": 0.2077517956495285,
+            "water": 0.22952115535736084,
+            "forest": 0.20039528608322144,
+            "farm": 0.22183829545974731
+        },
+        "expanded_image": "./output/image_31_expanded.png"
+    },
+    "image_32": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20702797174453735,
+            "industrial area": 0.20503771305084229,
+            "water": 0.23010152578353882,
+            "forest": 0.1996922791004181,
+            "farm": 0.22076618671417236
+        },
+        "expanded_image": "./output/image_32_expanded.png"
+    },
+    "image_33": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2093217372894287,
+            "industrial area": 0.20135653018951416,
+            "water": 0.22815240919589996,
+            "forest": 0.20158934593200684,
+            "farm": 0.21849344670772552
+        },
+        "expanded_image": "./output/image_33_expanded.png"
+    },
+    "image_34": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20835675299167633,
+            "industrial area": 0.20606927573680878,
+            "water": 0.22281500697135925,
+            "forest": 0.20115530490875244,
+            "farm": 0.21147052943706512
+        },
+        "expanded_image": "./output/image_34_expanded.png"
+    },
+    "image_35": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2271174192428589,
+            "industrial area": 0.2400853931903839,
+            "water": 0.22051091492176056,
+            "forest": 0.2054632008075714,
+            "farm": 0.22324761748313904
+        },
+        "expanded_image": "./output/image_35_expanded.png"
+    },
+    "image_36": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23255905508995056,
+            "industrial area": 0.2458638846874237,
+            "water": 0.2474774569272995,
+            "forest": 0.22167406976222992,
+            "farm": 0.23204900324344635
+        },
+        "expanded_image": "./output/image_36_expanded.png"
+    },
+    "image_37": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22913412749767303,
+            "industrial area": 0.24121887981891632,
+            "water": 0.2512616515159607,
+            "forest": 0.2404630482196808,
+            "farm": 0.23260590434074402
+        },
+        "expanded_image": "./output/image_37_expanded.png"
+    },
+    "image_38": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2607066333293915,
+            "industrial area": 0.2771352231502533,
+            "water": 0.23826096951961517,
+            "forest": 0.23729918897151947,
+            "farm": 0.2380257099866867
+        },
+        "expanded_image": "./output/image_38_expanded.png"
+    },
+    "image_39": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2237437665462494,
+            "industrial area": 0.23975138366222382,
+            "water": 0.24910889565944672,
+            "forest": 0.22007255256175995,
+            "farm": 0.22026433050632477
+        },
+        "expanded_image": "./output/image_39_expanded.png"
+    },
+    "image_40": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21374313533306122,
+            "industrial area": 0.2119324803352356,
+            "water": 0.2568899393081665,
+            "forest": 0.22935523092746735,
+            "farm": 0.226352259516716
+        },
+        "expanded_image": "./output/image_40_expanded.png"
+    },
+    "image_41": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.253854900598526,
+            "industrial area": 0.2549954652786255,
+            "water": 0.22852298617362976,
+            "forest": 0.20202568173408508,
+            "farm": 0.2306268960237503
+        },
+        "expanded_image": "./output/image_41_expanded.png"
+    },
+    "image_42": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24388183653354645,
+            "industrial area": 0.25181490182876587,
+            "water": 0.22191067039966583,
+            "forest": 0.22026146948337555,
+            "farm": 0.22318772971630096
+        },
+        "expanded_image": "./output/image_42_expanded.png"
+    },
+    "image_43": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2614685297012329,
+            "industrial area": 0.26821666955947876,
+            "water": 0.23172590136528015,
+            "forest": 0.2507985234260559,
+            "farm": 0.2515910863876343
+        },
+        "expanded_image": "./output/image_43_expanded.png"
+    },
+    "image_44": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25543075799942017,
+            "industrial area": 0.25715020298957825,
+            "water": 0.2290583997964859,
+            "forest": 0.2446574866771698,
+            "farm": 0.24502095580101013
+        },
+        "expanded_image": "./output/image_44_expanded.png"
+    },
+    "image_45": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2501426339149475,
+            "industrial area": 0.2641843855381012,
+            "water": 0.22647103667259216,
+            "forest": 0.24964427947998047,
+            "farm": 0.24078404903411865
+        },
+        "expanded_image": "./output/image_45_expanded.png"
+    },
+    "image_46": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22694963216781616,
+            "industrial area": 0.23958416283130646,
+            "water": 0.24592098593711853,
+            "forest": 0.25444066524505615,
+            "farm": 0.240956649184227
+        },
+        "expanded_image": "./output/image_46_expanded.png"
+    },
+    "image_47": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24039150774478912,
+            "industrial area": 0.25147545337677,
+            "water": 0.22311553359031677,
+            "forest": 0.2386287897825241,
+            "farm": 0.2371121644973755
+        },
+        "expanded_image": "./output/image_47_expanded.png"
+    },
+    "image_48": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2223382592201233,
+            "industrial area": 0.2435973882675171,
+            "water": 0.23659004271030426,
+            "forest": 0.23103325068950653,
+            "farm": 0.22232623398303986
+        },
+        "expanded_image": "./output/image_48_expanded.png"
+    },
+    "image_49": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22622065246105194,
+            "industrial area": 0.24163055419921875,
+            "water": 0.2284754365682602,
+            "forest": 0.2097027599811554,
+            "farm": 0.23242361843585968
+        },
+        "expanded_image": "./output/image_49_expanded.png"
+    },
+    "image_50": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21619389951229095,
+            "industrial area": 0.21922063827514648,
+            "water": 0.24066150188446045,
+            "forest": 0.20787791907787323,
+            "farm": 0.2299402356147766
+        },
+        "expanded_image": "./output/image_50_expanded.png"
+    },
+    "image_51": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21016454696655273,
+            "industrial area": 0.2080080360174179,
+            "water": 0.22805583477020264,
+            "forest": 0.20309630036354065,
+            "farm": 0.22160650789737701
+        },
+        "expanded_image": "./output/image_51_expanded.png"
+    },
+    "image_52": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21171154081821442,
+            "industrial area": 0.19965995848178864,
+            "water": 0.219010591506958,
+            "forest": 0.1901082545518875,
+            "farm": 0.20976245403289795
+        },
+        "expanded_image": "./output/image_52_expanded.png"
+    },
+    "image_53": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.19982388615608215,
+            "industrial area": 0.19761605560779572,
+            "water": 0.23127780854701996,
+            "forest": 0.20084187388420105,
+            "farm": 0.22004875540733337
+        },
+        "expanded_image": "./output/image_53_expanded.png"
+    },
+    "image_54": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20875853300094604,
+            "industrial area": 0.20976199209690094,
+            "water": 0.23284180462360382,
+            "forest": 0.2091476321220398,
+            "farm": 0.22888505458831787
+        },
+        "expanded_image": "./output/image_54_expanded.png"
+    },
+    "image_55": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2243070751428604,
+            "industrial area": 0.22336001694202423,
+            "water": 0.23904269933700562,
+            "forest": 0.21888890862464905,
+            "farm": 0.22529438138008118
+        },
+        "expanded_image": "./output/image_55_expanded.png"
+    },
+    "image_56": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23831507563591003,
+            "industrial area": 0.25103694200515747,
+            "water": 0.23155629634857178,
+            "forest": 0.20590367913246155,
+            "farm": 0.2243909239768982
+        },
+        "expanded_image": "./output/image_56_expanded.png"
+    },
+    "image_57": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22006011009216309,
+            "industrial area": 0.22618718445301056,
+            "water": 0.235238179564476,
+            "forest": 0.23364530503749847,
+            "farm": 0.22668971121311188
+        },
+        "expanded_image": "./output/image_57_expanded.png"
+    },
+    "image_58": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.249568372964859,
+            "industrial area": 0.25525936484336853,
+            "water": 0.23965126276016235,
+            "forest": 0.23304112255573273,
+            "farm": 0.24338892102241516
+        },
+        "expanded_image": "./output/image_58_expanded.png"
+    },
+    "image_59": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21057455241680145,
+            "industrial area": 0.22713840007781982,
+            "water": 0.24210961163043976,
+            "forest": 0.22478443384170532,
+            "farm": 0.2189420610666275
+        },
+        "expanded_image": "./output/image_59_expanded.png"
+    },
+    "image_60": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2264644354581833,
+            "industrial area": 0.2353069931268692,
+            "water": 0.2504449784755707,
+            "forest": 0.23929330706596375,
+            "farm": 0.23563574254512787
+        },
+        "expanded_image": "./output/image_60_expanded.png"
+    },
+    "image_61": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22280314564704895,
+            "industrial area": 0.23923827707767487,
+            "water": 0.24236099421977997,
+            "forest": 0.23903398215770721,
+            "farm": 0.22627317905426025
+        },
+        "expanded_image": "./output/image_61_expanded.png"
+    },
+    "image_62": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2517589032649994,
+            "industrial area": 0.2679673135280609,
+            "water": 0.2261456996202469,
+            "forest": 0.22679829597473145,
+            "farm": 0.23525379598140717
+        },
+        "expanded_image": "./output/image_62_expanded.png"
+    },
+    "image_63": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2405472844839096,
+            "industrial area": 0.25472503900527954,
+            "water": 0.23279841244220734,
+            "forest": 0.23138663172721863,
+            "farm": 0.236594557762146
+        },
+        "expanded_image": "./output/image_63_expanded.png"
+    },
+    "image_64": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.24156756699085236,
+            "industrial area": 0.24443992972373962,
+            "water": 0.21028316020965576,
+            "forest": 0.23138776421546936,
+            "farm": 0.24936240911483765
+        },
+        "expanded_image": "./output/image_64_expanded.png"
+    },
+    "image_65": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24295388162136078,
+            "industrial area": 0.25585171580314636,
+            "water": 0.22444584965705872,
+            "forest": 0.23529398441314697,
+            "farm": 0.22527438402175903
+        },
+        "expanded_image": "./output/image_65_expanded.png"
+    },
+    "image_66": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2471570074558258,
+            "industrial area": 0.2568182349205017,
+            "water": 0.24386213719844818,
+            "forest": 0.2591629922389984,
+            "farm": 0.24342013895511627
+        },
+        "expanded_image": "./output/image_66_expanded.png"
+    },
+    "image_67": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2443893998861313,
+            "industrial area": 0.2552131414413452,
+            "water": 0.2257394641637802,
+            "forest": 0.25447726249694824,
+            "farm": 0.25221386551856995
+        },
+        "expanded_image": "./output/image_67_expanded.png"
+    },
+    "image_68": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22753171622753143,
+            "industrial area": 0.24994924664497375,
+            "water": 0.20388096570968628,
+            "forest": 0.21273039281368256,
+            "farm": 0.21944952011108398
+        },
+        "expanded_image": "./output/image_68_expanded.png"
+    },
+    "image_69": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22380128502845764,
+            "industrial area": 0.2246667891740799,
+            "water": 0.23917964100837708,
+            "forest": 0.21287786960601807,
+            "farm": 0.22274401783943176
+        },
+        "expanded_image": "./output/image_69_expanded.png"
+    },
+    "image_70": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20717692375183105,
+            "industrial area": 0.20781762897968292,
+            "water": 0.23458057641983032,
+            "forest": 0.20615226030349731,
+            "farm": 0.22675687074661255
+        },
+        "expanded_image": "./output/image_70_expanded.png"
+    },
+    "image_71": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2084089070558548,
+            "industrial area": 0.20575542747974396,
+            "water": 0.2251664102077484,
+            "forest": 0.19772543013095856,
+            "farm": 0.21621443331241608
+        },
+        "expanded_image": "./output/image_71_expanded.png"
+    },
+    "image_72": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2057654708623886,
+            "industrial area": 0.20438630878925323,
+            "water": 0.22987931966781616,
+            "forest": 0.2020115703344345,
+            "farm": 0.22008106112480164
+        },
+        "expanded_image": "./output/image_72_expanded.png"
+    },
+    "image_73": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20804686844348907,
+            "industrial area": 0.1963030844926834,
+            "water": 0.22209978103637695,
+            "forest": 0.1966564953327179,
+            "farm": 0.21695566177368164
+        },
+        "expanded_image": "./output/image_73_expanded.png"
+    },
+    "image_74": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21134346723556519,
+            "industrial area": 0.2086462378501892,
+            "water": 0.22603777050971985,
+            "forest": 0.20360077917575836,
+            "farm": 0.2248321920633316
+        },
+        "expanded_image": "./output/image_74_expanded.png"
+    },
+    "image_75": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2267255336046219,
+            "industrial area": 0.22052618861198425,
+            "water": 0.23088163137435913,
+            "forest": 0.20220297574996948,
+            "farm": 0.22324055433273315
+        },
+        "expanded_image": "./output/image_75_expanded.png"
+    },
+    "image_76": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23795650899410248,
+            "industrial area": 0.25227344036102295,
+            "water": 0.2265569120645523,
+            "forest": 0.21859367191791534,
+            "farm": 0.23284876346588135
+        },
+        "expanded_image": "./output/image_76_expanded.png"
+    },
+    "image_77": {
+        "best_class": "residential area",
+        "scores": {
+            "residential area": 0.24685965478420258,
+            "industrial area": 0.24301160871982574,
+            "water": 0.2312963604927063,
+            "forest": 0.22258830070495605,
+            "farm": 0.24220344424247742
+        },
+        "expanded_image": "./output/image_77_expanded.png"
+    },
+    "image_78": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2075498104095459,
+            "industrial area": 0.21313634514808655,
+            "water": 0.23859751224517822,
+            "forest": 0.21858833730220795,
+            "farm": 0.22129987180233002
+        },
+        "expanded_image": "./output/image_78_expanded.png"
+    },
+    "image_79": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20648717880249023,
+            "industrial area": 0.2123659998178482,
+            "water": 0.23477450013160706,
+            "forest": 0.20791232585906982,
+            "farm": 0.21731360256671906
+        },
+        "expanded_image": "./output/image_79_expanded.png"
+    },
+    "image_80": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2080656737089157,
+            "industrial area": 0.22042642533779144,
+            "water": 0.24111394584178925,
+            "forest": 0.22186550498008728,
+            "farm": 0.222951278090477
+        },
+        "expanded_image": "./output/image_80_expanded.png"
+    },
+    "image_81": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.233598992228508,
+            "industrial area": 0.2496166229248047,
+            "water": 0.24346351623535156,
+            "forest": 0.24965229630470276,
+            "farm": 0.23174041509628296
+        },
+        "expanded_image": "./output/image_81_expanded.png"
+    },
+    "image_82": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.26086974143981934,
+            "industrial area": 0.26999396085739136,
+            "water": 0.2297433316707611,
+            "forest": 0.24621553719043732,
+            "farm": 0.24520711600780487
+        },
+        "expanded_image": "./output/image_82_expanded.png"
+    },
+    "image_83": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24865806102752686,
+            "industrial area": 0.25652948021888733,
+            "water": 0.2214571088552475,
+            "forest": 0.23993127048015594,
+            "farm": 0.2336685061454773
+        },
+        "expanded_image": "./output/image_83_expanded.png"
+    },
+    "image_84": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2530936598777771,
+            "industrial area": 0.27263176441192627,
+            "water": 0.23560523986816406,
+            "forest": 0.24516995251178741,
+            "farm": 0.23909929394721985
+        },
+        "expanded_image": "./output/image_84_expanded.png"
+    },
+    "image_85": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24572862684726715,
+            "industrial area": 0.257821261882782,
+            "water": 0.2380775362253189,
+            "forest": 0.23895163834095,
+            "farm": 0.23944343626499176
+        },
+        "expanded_image": "./output/image_85_expanded.png"
+    },
+    "image_86": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2544611692428589,
+            "industrial area": 0.2727682292461395,
+            "water": 0.213559091091156,
+            "forest": 0.21896566450595856,
+            "farm": 0.22866636514663696
+        },
+        "expanded_image": "./output/image_86_expanded.png"
+    },
+    "image_87": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2607920169830322,
+            "industrial area": 0.2749290466308594,
+            "water": 0.20775602757930756,
+            "forest": 0.21593813598155975,
+            "farm": 0.23096515238285065
+        },
+        "expanded_image": "./output/image_87_expanded.png"
+    },
+    "image_88": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23166309297084808,
+            "industrial area": 0.2500944435596466,
+            "water": 0.23723487555980682,
+            "forest": 0.2232827991247177,
+            "farm": 0.2280101478099823
+        },
+        "expanded_image": "./output/image_88_expanded.png"
+    },
+    "image_89": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2134619653224945,
+            "industrial area": 0.21337836980819702,
+            "water": 0.23476919531822205,
+            "forest": 0.2057354599237442,
+            "farm": 0.22525891661643982
+        },
+        "expanded_image": "./output/image_89_expanded.png"
+    },
+    "image_90": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21162933111190796,
+            "industrial area": 0.21223163604736328,
+            "water": 0.23360610008239746,
+            "forest": 0.20601117610931396,
+            "farm": 0.22632096707820892
+        },
+        "expanded_image": "./output/image_90_expanded.png"
+    },
+    "image_91": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20742134749889374,
+            "industrial area": 0.20957519114017487,
+            "water": 0.23349185287952423,
+            "forest": 0.20383808016777039,
+            "farm": 0.22462038695812225
+        },
+        "expanded_image": "./output/image_91_expanded.png"
+    },
+    "image_92": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20653903484344482,
+            "industrial area": 0.20398268103599548,
+            "water": 0.22932983934879303,
+            "forest": 0.2039039433002472,
+            "farm": 0.2222336381673813
+        },
+        "expanded_image": "./output/image_92_expanded.png"
+    },
+    "image_93": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21129171550273895,
+            "industrial area": 0.21115189790725708,
+            "water": 0.23316523432731628,
+            "forest": 0.20695804059505463,
+            "farm": 0.2251351773738861
+        },
+        "expanded_image": "./output/image_93_expanded.png"
+    },
+    "image_94": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20949609577655792,
+            "industrial area": 0.20641979575157166,
+            "water": 0.22500014305114746,
+            "forest": 0.1988247185945511,
+            "farm": 0.2209705263376236
+        },
+        "expanded_image": "./output/image_94_expanded.png"
+    },
+    "image_95": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21830400824546814,
+            "industrial area": 0.21512062847614288,
+            "water": 0.22332455217838287,
+            "forest": 0.19729194045066833,
+            "farm": 0.211731418967247
+        },
+        "expanded_image": "./output/image_95_expanded.png"
+    },
+    "image_96": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24033740162849426,
+            "industrial area": 0.25394219160079956,
+            "water": 0.23705214262008667,
+            "forest": 0.21660321950912476,
+            "farm": 0.23798733949661255
+        },
+        "expanded_image": "./output/image_96_expanded.png"
+    },
+    "image_97": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2220744639635086,
+            "industrial area": 0.22881577908992767,
+            "water": 0.2436612993478775,
+            "forest": 0.23087018728256226,
+            "farm": 0.23048283159732819
+        },
+        "expanded_image": "./output/image_97_expanded.png"
+    },
+    "image_98": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22302564978599548,
+            "industrial area": 0.2291385978460312,
+            "water": 0.2478400319814682,
+            "forest": 0.2377677708864212,
+            "farm": 0.23197586834430695
+        },
+        "expanded_image": "./output/image_98_expanded.png"
+    },
+    "image_99": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22211875021457672,
+            "industrial area": 0.22421692311763763,
+            "water": 0.24245557188987732,
+            "forest": 0.23179233074188232,
+            "farm": 0.22260624170303345
+        },
+        "expanded_image": "./output/image_99_expanded.png"
+    },
+    "image_100": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2139856070280075,
+            "industrial area": 0.2228672057390213,
+            "water": 0.23564228415489197,
+            "forest": 0.22009894251823425,
+            "farm": 0.22142541408538818
+        },
+        "expanded_image": "./output/image_100_expanded.png"
+    },
+    "image_101": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2478104531764984,
+            "industrial area": 0.2620571553707123,
+            "water": 0.22429761290550232,
+            "forest": 0.2286907434463501,
+            "farm": 0.24234649538993835
+        },
+        "expanded_image": "./output/image_101_expanded.png"
+    },
+    "image_102": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2595289349555969,
+            "industrial area": 0.2729935944080353,
+            "water": 0.21807686984539032,
+            "forest": 0.22096100449562073,
+            "farm": 0.23507843911647797
+        },
+        "expanded_image": "./output/image_102_expanded.png"
+    },
+    "image_103": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23411709070205688,
+            "industrial area": 0.24363604187965393,
+            "water": 0.2350303679704666,
+            "forest": 0.25440025329589844,
+            "farm": 0.23364219069480896
+        },
+        "expanded_image": "./output/image_103_expanded.png"
+    },
+    "image_104": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24320636689662933,
+            "industrial area": 0.2579977512359619,
+            "water": 0.2337368279695511,
+            "forest": 0.2273261547088623,
+            "farm": 0.22447557747364044
+        },
+        "expanded_image": "./output/image_104_expanded.png"
+    },
+    "image_105": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23825578391551971,
+            "industrial area": 0.2513144612312317,
+            "water": 0.22898650169372559,
+            "forest": 0.23639847338199615,
+            "farm": 0.23380976915359497
+        },
+        "expanded_image": "./output/image_105_expanded.png"
+    },
+    "image_106": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23009762167930603,
+            "industrial area": 0.24348273873329163,
+            "water": 0.2267431616783142,
+            "forest": 0.2248455435037613,
+            "farm": 0.21880188584327698
+        },
+        "expanded_image": "./output/image_106_expanded.png"
+    },
+    "image_107": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2514692544937134,
+            "industrial area": 0.2720927298069,
+            "water": 0.2253279685974121,
+            "forest": 0.22592774033546448,
+            "farm": 0.23013748228549957
+        },
+        "expanded_image": "./output/image_107_expanded.png"
+    },
+    "image_108": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23613691329956055,
+            "industrial area": 0.24315384030342102,
+            "water": 0.24480661749839783,
+            "forest": 0.22999706864356995,
+            "farm": 0.2370527982711792
+        },
+        "expanded_image": "./output/image_108_expanded.png"
+    },
+    "image_109": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.20560698211193085,
+            "industrial area": 0.20441071689128876,
+            "water": 0.22465239465236664,
+            "forest": 0.20292127132415771,
+            "farm": 0.2311859279870987
+        },
+        "expanded_image": "./output/image_109_expanded.png"
+    },
+    "image_110": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.209892138838768,
+            "industrial area": 0.20771077275276184,
+            "water": 0.23375672101974487,
+            "forest": 0.20622500777244568,
+            "farm": 0.22379937767982483
+        },
+        "expanded_image": "./output/image_110_expanded.png"
+    },
+    "image_111": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21386799216270447,
+            "industrial area": 0.21286314725875854,
+            "water": 0.23577627539634705,
+            "forest": 0.21095940470695496,
+            "farm": 0.227750763297081
+        },
+        "expanded_image": "./output/image_111_expanded.png"
+    },
+    "image_112": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.211831733584404,
+            "industrial area": 0.21134662628173828,
+            "water": 0.22243164479732513,
+            "forest": 0.2001643180847168,
+            "farm": 0.21550029516220093
+        },
+        "expanded_image": "./output/image_112_expanded.png"
+    },
+    "image_113": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2232867181301117,
+            "industrial area": 0.2214353382587433,
+            "water": 0.2304610013961792,
+            "forest": 0.20627287030220032,
+            "farm": 0.21687524020671844
+        },
+        "expanded_image": "./output/image_113_expanded.png"
+    },
+    "image_114": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2166571170091629,
+            "industrial area": 0.22205382585525513,
+            "water": 0.23400454223155975,
+            "forest": 0.20630212128162384,
+            "farm": 0.21272221207618713
+        },
+        "expanded_image": "./output/image_114_expanded.png"
+    },
+    "image_115": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23683930933475494,
+            "industrial area": 0.23721277713775635,
+            "water": 0.2250281274318695,
+            "forest": 0.20850439369678497,
+            "farm": 0.21417978405952454
+        },
+        "expanded_image": "./output/image_115_expanded.png"
+    },
+    "image_116": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22940686345100403,
+            "industrial area": 0.2395382821559906,
+            "water": 0.23850440979003906,
+            "forest": 0.24238446354866028,
+            "farm": 0.22720059752464294
+        },
+        "expanded_image": "./output/image_116_expanded.png"
+    },
+    "image_117": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2412964403629303,
+            "industrial area": 0.25193917751312256,
+            "water": 0.2364395707845688,
+            "forest": 0.23422878980636597,
+            "farm": 0.2289050966501236
+        },
+        "expanded_image": "./output/image_117_expanded.png"
+    },
+    "image_118": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21159885823726654,
+            "industrial area": 0.22222888469696045,
+            "water": 0.2434857338666916,
+            "forest": 0.2342619150876999,
+            "farm": 0.21826736629009247
+        },
+        "expanded_image": "./output/image_118_expanded.png"
+    },
+    "image_119": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20867395401000977,
+            "industrial area": 0.21589422225952148,
+            "water": 0.23848141729831696,
+            "forest": 0.22287072241306305,
+            "farm": 0.22464944422245026
+        },
+        "expanded_image": "./output/image_119_expanded.png"
+    },
+    "image_120": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20932544767856598,
+            "industrial area": 0.21827374398708344,
+            "water": 0.2518043518066406,
+            "forest": 0.2205551713705063,
+            "farm": 0.22799111902713776
+        },
+        "expanded_image": "./output/image_120_expanded.png"
+    },
+    "image_121": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.27161505818367004,
+            "industrial area": 0.2766760587692261,
+            "water": 0.2309262752532959,
+            "forest": 0.23002074658870697,
+            "farm": 0.24115093052387238
+        },
+        "expanded_image": "./output/image_121_expanded.png"
+    },
+    "image_122": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2654942274093628,
+            "industrial area": 0.27483418583869934,
+            "water": 0.22792619466781616,
+            "forest": 0.23772349953651428,
+            "farm": 0.24387186765670776
+        },
+        "expanded_image": "./output/image_122_expanded.png"
+    },
+    "image_123": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23795868456363678,
+            "industrial area": 0.25390008091926575,
+            "water": 0.22983385622501373,
+            "forest": 0.2329283207654953,
+            "farm": 0.2286965548992157
+        },
+        "expanded_image": "./output/image_123_expanded.png"
+    },
+    "image_124": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.26443761587142944,
+            "industrial area": 0.26445236802101135,
+            "water": 0.22514072060585022,
+            "forest": 0.23830662667751312,
+            "farm": 0.24198433756828308
+        },
+        "expanded_image": "./output/image_124_expanded.png"
+    },
+    "image_125": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23239701986312866,
+            "industrial area": 0.2432319074869156,
+            "water": 0.23675063252449036,
+            "forest": 0.24327398836612701,
+            "farm": 0.2252785861492157
+        },
+        "expanded_image": "./output/image_125_expanded.png"
+    },
+    "image_126": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25388166308403015,
+            "industrial area": 0.25876766443252563,
+            "water": 0.22643835842609406,
+            "forest": 0.23370428383350372,
+            "farm": 0.23595581948757172
+        },
+        "expanded_image": "./output/image_126_expanded.png"
+    },
+    "image_127": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24480803310871124,
+            "industrial area": 0.2654533386230469,
+            "water": 0.2191091775894165,
+            "forest": 0.2228258103132248,
+            "farm": 0.22340232133865356
+        },
+        "expanded_image": "./output/image_127_expanded.png"
+    },
+    "image_128": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2441391944885254,
+            "industrial area": 0.2579013407230377,
+            "water": 0.22215786576271057,
+            "forest": 0.22617636620998383,
+            "farm": 0.23618915677070618
+        },
+        "expanded_image": "./output/image_128_expanded.png"
+    },
+    "image_129": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22023868560791016,
+            "industrial area": 0.22470024228096008,
+            "water": 0.2434576451778412,
+            "forest": 0.21224308013916016,
+            "farm": 0.2268017679452896
+        },
+        "expanded_image": "./output/image_129_expanded.png"
+    },
+    "image_130": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21317222714424133,
+            "industrial area": 0.20566824078559875,
+            "water": 0.2236957550048828,
+            "forest": 0.19876135885715485,
+            "farm": 0.22284482419490814
+        },
+        "expanded_image": "./output/image_130_expanded.png"
+    },
+    "image_131": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22312858700752258,
+            "industrial area": 0.215806245803833,
+            "water": 0.2276909351348877,
+            "forest": 0.21225503087043762,
+            "farm": 0.2234763652086258
+        },
+        "expanded_image": "./output/image_131_expanded.png"
+    },
+    "image_132": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22024691104888916,
+            "industrial area": 0.2254325896501541,
+            "water": 0.23760700225830078,
+            "forest": 0.22012954950332642,
+            "farm": 0.22734518349170685
+        },
+        "expanded_image": "./output/image_132_expanded.png"
+    },
+    "image_133": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21079976856708527,
+            "industrial area": 0.220286563038826,
+            "water": 0.23772072792053223,
+            "forest": 0.21888543665409088,
+            "farm": 0.22717773914337158
+        },
+        "expanded_image": "./output/image_133_expanded.png"
+    },
+    "image_134": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22112777829170227,
+            "industrial area": 0.22881364822387695,
+            "water": 0.24053646624088287,
+            "forest": 0.22985602915287018,
+            "farm": 0.22429515421390533
+        },
+        "expanded_image": "./output/image_134_expanded.png"
+    },
+    "image_135": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24548457562923431,
+            "industrial area": 0.250894695520401,
+            "water": 0.2433391809463501,
+            "forest": 0.22603128850460052,
+            "farm": 0.23701921105384827
+        },
+        "expanded_image": "./output/image_135_expanded.png"
+    },
+    "image_136": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2629259526729584,
+            "industrial area": 0.2657732665538788,
+            "water": 0.2252315878868103,
+            "forest": 0.23361466825008392,
+            "farm": 0.24963900446891785
+        },
+        "expanded_image": "./output/image_136_expanded.png"
+    },
+    "image_137": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2273779660463333,
+            "industrial area": 0.24269263446331024,
+            "water": 0.25642678141593933,
+            "forest": 0.2103176862001419,
+            "farm": 0.21795161068439484
+        },
+        "expanded_image": "./output/image_137_expanded.png"
+    },
+    "image_138": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20421326160430908,
+            "industrial area": 0.20709505677223206,
+            "water": 0.2281220257282257,
+            "forest": 0.21238012611865997,
+            "farm": 0.21712243556976318
+        },
+        "expanded_image": "./output/image_138_expanded.png"
+    },
+    "image_139": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22658389806747437,
+            "industrial area": 0.2363724559545517,
+            "water": 0.2440195530653,
+            "forest": 0.22259892523288727,
+            "farm": 0.23019295930862427
+        },
+        "expanded_image": "./output/image_139_expanded.png"
+    },
+    "image_140": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2144022434949875,
+            "industrial area": 0.22242853045463562,
+            "water": 0.2298862785100937,
+            "forest": 0.208433136343956,
+            "farm": 0.2174222320318222
+        },
+        "expanded_image": "./output/image_140_expanded.png"
+    },
+    "image_141": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.226002037525177,
+            "industrial area": 0.23600637912750244,
+            "water": 0.2579362392425537,
+            "forest": 0.24629133939743042,
+            "farm": 0.23603296279907227
+        },
+        "expanded_image": "./output/image_141_expanded.png"
+    },
+    "image_142": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25392258167266846,
+            "industrial area": 0.26821261644363403,
+            "water": 0.24419070780277252,
+            "forest": 0.2560873031616211,
+            "farm": 0.24913901090621948
+        },
+        "expanded_image": "./output/image_142_expanded.png"
+    },
+    "image_143": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2451506406068802,
+            "industrial area": 0.257337749004364,
+            "water": 0.23442243039608002,
+            "forest": 0.22931939363479614,
+            "farm": 0.23795422911643982
+        },
+        "expanded_image": "./output/image_143_expanded.png"
+    },
+    "image_144": {
+        "best_class": "residential area",
+        "scores": {
+            "residential area": 0.2689233422279358,
+            "industrial area": 0.26497554779052734,
+            "water": 0.21859334409236908,
+            "forest": 0.22365757822990417,
+            "farm": 0.23637358844280243
+        },
+        "expanded_image": "./output/image_144_expanded.png"
+    },
+    "image_145": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25476109981536865,
+            "industrial area": 0.2679438292980194,
+            "water": 0.22000329196453094,
+            "forest": 0.21491026878356934,
+            "farm": 0.23320633172988892
+        },
+        "expanded_image": "./output/image_145_expanded.png"
+    },
+    "image_146": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22688113152980804,
+            "industrial area": 0.23684561252593994,
+            "water": 0.2205919772386551,
+            "forest": 0.2189117670059204,
+            "farm": 0.22478343546390533
+        },
+        "expanded_image": "./output/image_146_expanded.png"
+    },
+    "image_147": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2420201301574707,
+            "industrial area": 0.257822185754776,
+            "water": 0.2397143840789795,
+            "forest": 0.23041795194149017,
+            "farm": 0.23979347944259644
+        },
+        "expanded_image": "./output/image_147_expanded.png"
+    },
+    "image_148": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21931591629981995,
+            "industrial area": 0.23404981195926666,
+            "water": 0.2424527406692505,
+            "forest": 0.2353111356496811,
+            "farm": 0.21274609863758087
+        },
+        "expanded_image": "./output/image_148_expanded.png"
+    },
+    "image_149": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23057113587856293,
+            "industrial area": 0.24379727244377136,
+            "water": 0.22083887457847595,
+            "forest": 0.21307158470153809,
+            "farm": 0.2181837260723114
+        },
+        "expanded_image": "./output/image_149_expanded.png"
+    },
+    "image_150": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22234243154525757,
+            "industrial area": 0.23422901332378387,
+            "water": 0.21571481227874756,
+            "forest": 0.18718822300434113,
+            "farm": 0.20781224966049194
+        },
+        "expanded_image": "./output/image_150_expanded.png"
+    },
+    "image_151": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23535901308059692,
+            "industrial area": 0.24181602895259857,
+            "water": 0.2337837815284729,
+            "forest": 0.2241818606853485,
+            "farm": 0.2378709763288498
+        },
+        "expanded_image": "./output/image_151_expanded.png"
+    },
+    "image_152": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.2300364077091217,
+            "industrial area": 0.23454543948173523,
+            "water": 0.2302650511264801,
+            "forest": 0.2416810542345047,
+            "farm": 0.24389076232910156
+        },
+        "expanded_image": "./output/image_152_expanded.png"
+    },
+    "image_153": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22073334455490112,
+            "industrial area": 0.2240559458732605,
+            "water": 0.2324274480342865,
+            "forest": 0.24501605331897736,
+            "farm": 0.24050462245941162
+        },
+        "expanded_image": "./output/image_153_expanded.png"
+    },
+    "image_154": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.2149415910243988,
+            "industrial area": 0.215078666806221,
+            "water": 0.2247825264930725,
+            "forest": 0.23320743441581726,
+            "farm": 0.23819778859615326
+        },
+        "expanded_image": "./output/image_154_expanded.png"
+    },
+    "image_155": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.214617520570755,
+            "industrial area": 0.22440464794635773,
+            "water": 0.23406729102134705,
+            "forest": 0.2135380208492279,
+            "farm": 0.22724951803684235
+        },
+        "expanded_image": "./output/image_155_expanded.png"
+    },
+    "image_156": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24060627818107605,
+            "industrial area": 0.2501119375228882,
+            "water": 0.23423953354358673,
+            "forest": 0.23147664964199066,
+            "farm": 0.2347114533185959
+        },
+        "expanded_image": "./output/image_156_expanded.png"
+    },
+    "image_157": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23885825276374817,
+            "industrial area": 0.24840575456619263,
+            "water": 0.24360176920890808,
+            "forest": 0.23231537640094757,
+            "farm": 0.22897732257843018
+        },
+        "expanded_image": "./output/image_157_expanded.png"
+    },
+    "image_158": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23116156458854675,
+            "industrial area": 0.23650085926055908,
+            "water": 0.24359427392482758,
+            "forest": 0.23564620316028595,
+            "farm": 0.23236849904060364
+        },
+        "expanded_image": "./output/image_158_expanded.png"
+    },
+    "image_159": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21198102831840515,
+            "industrial area": 0.21070395410060883,
+            "water": 0.23528265953063965,
+            "forest": 0.22762146592140198,
+            "farm": 0.2227509319782257
+        },
+        "expanded_image": "./output/image_159_expanded.png"
+    },
+    "image_160": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21021968126296997,
+            "industrial area": 0.2168998271226883,
+            "water": 0.23695693910121918,
+            "forest": 0.22424867749214172,
+            "farm": 0.22822785377502441
+        },
+        "expanded_image": "./output/image_160_expanded.png"
+    },
+    "image_161": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25803905725479126,
+            "industrial area": 0.2620215117931366,
+            "water": 0.23022101819515228,
+            "forest": 0.2356143295764923,
+            "farm": 0.2386332005262375
+        },
+        "expanded_image": "./output/image_161_expanded.png"
+    },
+    "image_162": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2384864091873169,
+            "industrial area": 0.2535139322280884,
+            "water": 0.24395248293876648,
+            "forest": 0.25900399684906006,
+            "farm": 0.23648719489574432
+        },
+        "expanded_image": "./output/image_162_expanded.png"
+    },
+    "image_163": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2579694092273712,
+            "industrial area": 0.27207350730895996,
+            "water": 0.21832723915576935,
+            "forest": 0.21601304411888123,
+            "farm": 0.23211094737052917
+        },
+        "expanded_image": "./output/image_163_expanded.png"
+    },
+    "image_164": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2376638501882553,
+            "industrial area": 0.24668598175048828,
+            "water": 0.23204785585403442,
+            "forest": 0.21575942635536194,
+            "farm": 0.2339884340763092
+        },
+        "expanded_image": "./output/image_164_expanded.png"
+    },
+    "image_165": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22287560999393463,
+            "industrial area": 0.2300185114145279,
+            "water": 0.23971278965473175,
+            "forest": 0.22237230837345123,
+            "farm": 0.23357386887073517
+        },
+        "expanded_image": "./output/image_165_expanded.png"
+    },
+    "image_166": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25673097372055054,
+            "industrial area": 0.26669275760650635,
+            "water": 0.2301781326532364,
+            "forest": 0.21984314918518066,
+            "farm": 0.23673884570598602
+        },
+        "expanded_image": "./output/image_166_expanded.png"
+    },
+    "image_167": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25026148557662964,
+            "industrial area": 0.2585948705673218,
+            "water": 0.21021369099617004,
+            "forest": 0.2112186700105667,
+            "farm": 0.20996488630771637
+        },
+        "expanded_image": "./output/image_167_expanded.png"
+    },
+    "image_168": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24736660718917847,
+            "industrial area": 0.26779937744140625,
+            "water": 0.21965831518173218,
+            "forest": 0.21326804161071777,
+            "farm": 0.21985086798667908
+        },
+        "expanded_image": "./output/image_168_expanded.png"
+    },
+    "image_169": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2484688013792038,
+            "industrial area": 0.26478978991508484,
+            "water": 0.20181836187839508,
+            "forest": 0.21519190073013306,
+            "farm": 0.22801262140274048
+        },
+        "expanded_image": "./output/image_169_expanded.png"
+    },
+    "image_170": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25237685441970825,
+            "industrial area": 0.25979337096214294,
+            "water": 0.22430987656116486,
+            "forest": 0.2454138547182083,
+            "farm": 0.2425309270620346
+        },
+        "expanded_image": "./output/image_170_expanded.png"
+    },
+    "image_171": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24610590934753418,
+            "industrial area": 0.26437923312187195,
+            "water": 0.20969685912132263,
+            "forest": 0.22286607325077057,
+            "farm": 0.2370874583721161
+        },
+        "expanded_image": "./output/image_171_expanded.png"
+    },
+    "image_172": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.2335425615310669,
+            "industrial area": 0.23252740502357483,
+            "water": 0.23288005590438843,
+            "forest": 0.22871430218219757,
+            "farm": 0.2403779923915863
+        },
+        "expanded_image": "./output/image_172_expanded.png"
+    },
+    "image_173": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.2213561087846756,
+            "industrial area": 0.22553057968616486,
+            "water": 0.22841228544712067,
+            "forest": 0.2285960167646408,
+            "farm": 0.2321801334619522
+        },
+        "expanded_image": "./output/image_173_expanded.png"
+    },
+    "image_174": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22712470591068268,
+            "industrial area": 0.23133547604084015,
+            "water": 0.24201136827468872,
+            "forest": 0.23449096083641052,
+            "farm": 0.2292637974023819
+        },
+        "expanded_image": "./output/image_174_expanded.png"
+    },
+    "image_175": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25869032740592957,
+            "industrial area": 0.26897263526916504,
+            "water": 0.23135824501514435,
+            "forest": 0.22465160489082336,
+            "farm": 0.26020392775535583
+        },
+        "expanded_image": "./output/image_175_expanded.png"
+    },
+    "image_176": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23688369989395142,
+            "industrial area": 0.24569442868232727,
+            "water": 0.2340560257434845,
+            "forest": 0.22318895161151886,
+            "farm": 0.22419258952140808
+        },
+        "expanded_image": "./output/image_176_expanded.png"
+    },
+    "image_177": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2639748454093933,
+            "industrial area": 0.27390003204345703,
+            "water": 0.22813542187213898,
+            "forest": 0.23310866951942444,
+            "farm": 0.24154263734817505
+        },
+        "expanded_image": "./output/image_177_expanded.png"
+    },
+    "image_178": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22645339369773865,
+            "industrial area": 0.2380789816379547,
+            "water": 0.2369208037853241,
+            "forest": 0.23227450251579285,
+            "farm": 0.2298753708600998
+        },
+        "expanded_image": "./output/image_178_expanded.png"
+    },
+    "image_179": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23838606476783752,
+            "industrial area": 0.24863676726818085,
+            "water": 0.24289515614509583,
+            "forest": 0.23472842574119568,
+            "farm": 0.24165697395801544
+        },
+        "expanded_image": "./output/image_179_expanded.png"
+    },
+    "image_180": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24926616251468658,
+            "industrial area": 0.2604595720767975,
+            "water": 0.23298953473567963,
+            "forest": 0.23986214399337769,
+            "farm": 0.22855113446712494
+        },
+        "expanded_image": "./output/image_180_expanded.png"
+    },
+    "image_181": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.2490386664867401,
+            "industrial area": 0.25189658999443054,
+            "water": 0.23079168796539307,
+            "forest": 0.24413710832595825,
+            "farm": 0.25950703024864197
+        },
+        "expanded_image": "./output/image_181_expanded.png"
+    },
+    "image_182": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24640990793704987,
+            "industrial area": 0.2590346336364746,
+            "water": 0.22826263308525085,
+            "forest": 0.23889541625976562,
+            "farm": 0.24011178314685822
+        },
+        "expanded_image": "./output/image_182_expanded.png"
+    },
+    "image_183": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22477471828460693,
+            "industrial area": 0.24244023859500885,
+            "water": 0.23923377692699432,
+            "forest": 0.23732060194015503,
+            "farm": 0.22304725646972656
+        },
+        "expanded_image": "./output/image_183_expanded.png"
+    },
+    "image_184": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24876582622528076,
+            "industrial area": 0.25195783376693726,
+            "water": 0.2237538993358612,
+            "forest": 0.22644728422164917,
+            "farm": 0.23987717926502228
+        },
+        "expanded_image": "./output/image_184_expanded.png"
+    },
+    "image_185": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24179400503635406,
+            "industrial area": 0.24904519319534302,
+            "water": 0.2333471179008484,
+            "forest": 0.2320258915424347,
+            "farm": 0.23586341738700867
+        },
+        "expanded_image": "./output/image_185_expanded.png"
+    },
+    "image_186": {
+        "best_class": "residential area",
+        "scores": {
+            "residential area": 0.2572169899940491,
+            "industrial area": 0.25644248723983765,
+            "water": 0.2263311743736267,
+            "forest": 0.22263076901435852,
+            "farm": 0.2409173995256424
+        },
+        "expanded_image": "./output/image_186_expanded.png"
+    },
+    "image_187": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24161747097969055,
+            "industrial area": 0.2598460614681244,
+            "water": 0.22884269058704376,
+            "forest": 0.2242775708436966,
+            "farm": 0.2391955852508545
+        },
+        "expanded_image": "./output/image_187_expanded.png"
+    },
+    "image_188": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24123860895633698,
+            "industrial area": 0.2555534839630127,
+            "water": 0.23609691858291626,
+            "forest": 0.22818881273269653,
+            "farm": 0.2306363433599472
+        },
+        "expanded_image": "./output/image_188_expanded.png"
+    },
+    "image_189": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25611045956611633,
+            "industrial area": 0.26856088638305664,
+            "water": 0.2143883854150772,
+            "forest": 0.2253110408782959,
+            "farm": 0.2344149649143219
+        },
+        "expanded_image": "./output/image_189_expanded.png"
+    },
+    "image_190": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24433109164237976,
+            "industrial area": 0.2750544846057892,
+            "water": 0.21197324991226196,
+            "forest": 0.21780644357204437,
+            "farm": 0.23254801332950592
+        },
+        "expanded_image": "./output/image_190_expanded.png"
+    },
+    "image_191": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23329630494117737,
+            "industrial area": 0.24030008912086487,
+            "water": 0.23360493779182434,
+            "forest": 0.25211843848228455,
+            "farm": 0.23942837119102478
+        },
+        "expanded_image": "./output/image_191_expanded.png"
+    },
+    "image_192": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21146005392074585,
+            "industrial area": 0.22162209451198578,
+            "water": 0.231565460562706,
+            "forest": 0.22462283074855804,
+            "farm": 0.21511873602867126
+        },
+        "expanded_image": "./output/image_192_expanded.png"
+    },
+    "image_193": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22957459092140198,
+            "industrial area": 0.2411905974149704,
+            "water": 0.2516116797924042,
+            "forest": 0.2390250563621521,
+            "farm": 0.24192014336585999
+        },
+        "expanded_image": "./output/image_193_expanded.png"
+    },
+    "image_194": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22489528357982635,
+            "industrial area": 0.2305539846420288,
+            "water": 0.2576298117637634,
+            "forest": 0.2356649488210678,
+            "farm": 0.2240723967552185
+        },
+        "expanded_image": "./output/image_194_expanded.png"
+    },
+    "image_195": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21956905722618103,
+            "industrial area": 0.22885343432426453,
+            "water": 0.24143315851688385,
+            "forest": 0.22582432627677917,
+            "farm": 0.23547248542308807
+        },
+        "expanded_image": "./output/image_195_expanded.png"
+    },
+    "image_196": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.20120950043201447,
+            "industrial area": 0.22753584384918213,
+            "water": 0.23582902550697327,
+            "forest": 0.2094159722328186,
+            "farm": 0.23649951815605164
+        },
+        "expanded_image": "./output/image_196_expanded.png"
+    },
+    "image_197": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23200765252113342,
+            "industrial area": 0.24021975696086884,
+            "water": 0.2328271120786667,
+            "forest": 0.23963560163974762,
+            "farm": 0.2363269329071045
+        },
+        "expanded_image": "./output/image_197_expanded.png"
+    },
+    "image_198": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2572724521160126,
+            "industrial area": 0.26865699887275696,
+            "water": 0.214061439037323,
+            "forest": 0.19960761070251465,
+            "farm": 0.22843363881111145
+        },
+        "expanded_image": "./output/image_198_expanded.png"
+    },
+    "image_199": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2516462504863739,
+            "industrial area": 0.25978556275367737,
+            "water": 0.2260938286781311,
+            "forest": 0.2183113396167755,
+            "farm": 0.23227068781852722
+        },
+        "expanded_image": "./output/image_199_expanded.png"
+    },
+    "image_200": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2274109423160553,
+            "industrial area": 0.23676560819149017,
+            "water": 0.23206284642219543,
+            "forest": 0.21013939380645752,
+            "farm": 0.22384200990200043
+        },
+        "expanded_image": "./output/image_200_expanded.png"
+    },
+    "image_201": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.2334488034248352,
+            "industrial area": 0.2348325550556183,
+            "water": 0.24238422513008118,
+            "forest": 0.24752277135849,
+            "farm": 0.2483901083469391
+        },
+        "expanded_image": "./output/image_201_expanded.png"
+    },
+    "image_202": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2391352504491806,
+            "industrial area": 0.24815060198307037,
+            "water": 0.2464766502380371,
+            "forest": 0.22753198444843292,
+            "farm": 0.24057266116142273
+        },
+        "expanded_image": "./output/image_202_expanded.png"
+    },
+    "image_203": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24059757590293884,
+            "industrial area": 0.24994343519210815,
+            "water": 0.22224250435829163,
+            "forest": 0.23410998284816742,
+            "farm": 0.2461729347705841
+        },
+        "expanded_image": "./output/image_203_expanded.png"
+    },
+    "image_204": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24960863590240479,
+            "industrial area": 0.25675031542778015,
+            "water": 0.23115035891532898,
+            "forest": 0.2493859827518463,
+            "farm": 0.24830809235572815
+        },
+        "expanded_image": "./output/image_204_expanded.png"
+    },
+    "image_205": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24518035352230072,
+            "industrial area": 0.255953311920166,
+            "water": 0.21984058618545532,
+            "forest": 0.2287462204694748,
+            "farm": 0.235536590218544
+        },
+        "expanded_image": "./output/image_205_expanded.png"
+    },
+    "image_206": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22986163198947906,
+            "industrial area": 0.2543381154537201,
+            "water": 0.2256171703338623,
+            "forest": 0.21071869134902954,
+            "farm": 0.2211681455373764
+        },
+        "expanded_image": "./output/image_206_expanded.png"
+    },
+    "image_207": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23604649305343628,
+            "industrial area": 0.24559533596038818,
+            "water": 0.23798121511936188,
+            "forest": 0.22187566757202148,
+            "farm": 0.2367841601371765
+        },
+        "expanded_image": "./output/image_207_expanded.png"
+    },
+    "image_208": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2265045940876007,
+            "industrial area": 0.22884169220924377,
+            "water": 0.22684583067893982,
+            "forest": 0.24099554121494293,
+            "farm": 0.23194891214370728
+        },
+        "expanded_image": "./output/image_208_expanded.png"
+    },
+    "image_209": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24899783730506897,
+            "industrial area": 0.2637277841567993,
+            "water": 0.2116096466779709,
+            "forest": 0.21642962098121643,
+            "farm": 0.24068231880664825
+        },
+        "expanded_image": "./output/image_209_expanded.png"
+    },
+    "image_210": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23514197766780853,
+            "industrial area": 0.250282347202301,
+            "water": 0.2390138953924179,
+            "forest": 0.23853127658367157,
+            "farm": 0.23053346574306488
+        },
+        "expanded_image": "./output/image_210_expanded.png"
+    },
+    "image_211": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23856452107429504,
+            "industrial area": 0.2496759295463562,
+            "water": 0.23024462163448334,
+            "forest": 0.229364812374115,
+            "farm": 0.2378637045621872
+        },
+        "expanded_image": "./output/image_211_expanded.png"
+    },
+    "image_212": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20168253779411316,
+            "industrial area": 0.20797325670719147,
+            "water": 0.24376878142356873,
+            "forest": 0.20996157824993134,
+            "farm": 0.20592330396175385
+        },
+        "expanded_image": "./output/image_212_expanded.png"
+    },
+    "image_213": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.22861213982105255,
+            "industrial area": 0.23681914806365967,
+            "water": 0.23693114519119263,
+            "forest": 0.2285946011543274,
+            "farm": 0.23942112922668457
+        },
+        "expanded_image": "./output/image_213_expanded.png"
+    },
+    "image_214": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22178810834884644,
+            "industrial area": 0.2308652698993683,
+            "water": 0.24941368401050568,
+            "forest": 0.2170095443725586,
+            "farm": 0.23775818943977356
+        },
+        "expanded_image": "./output/image_214_expanded.png"
+    },
+    "image_215": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21894198656082153,
+            "industrial area": 0.23398727178573608,
+            "water": 0.249026820063591,
+            "forest": 0.2246800661087036,
+            "farm": 0.23101983964443207
+        },
+        "expanded_image": "./output/image_215_expanded.png"
+    },
+    "image_216": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2330651432275772,
+            "industrial area": 0.24177134037017822,
+            "water": 0.2542887330055237,
+            "forest": 0.23512002825737,
+            "farm": 0.22909435629844666
+        },
+        "expanded_image": "./output/image_216_expanded.png"
+    },
+    "image_217": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23341867327690125,
+            "industrial area": 0.24471910297870636,
+            "water": 0.24086572229862213,
+            "forest": 0.22958222031593323,
+            "farm": 0.23697057366371155
+        },
+        "expanded_image": "./output/image_217_expanded.png"
+    },
+    "image_218": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2134614884853363,
+            "industrial area": 0.21750469505786896,
+            "water": 0.23226064443588257,
+            "forest": 0.2160012125968933,
+            "farm": 0.22287942469120026
+        },
+        "expanded_image": "./output/image_218_expanded.png"
+    },
+    "image_219": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20903636515140533,
+            "industrial area": 0.20981188118457794,
+            "water": 0.22780409455299377,
+            "forest": 0.20722059905529022,
+            "farm": 0.2273537665605545
+        },
+        "expanded_image": "./output/image_219_expanded.png"
+    },
+    "image_220": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20019221305847168,
+            "industrial area": 0.20203419029712677,
+            "water": 0.22670429944992065,
+            "forest": 0.19959431886672974,
+            "farm": 0.22242386639118195
+        },
+        "expanded_image": "./output/image_220_expanded.png"
+    },
+    "image_221": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2210765779018402,
+            "industrial area": 0.2241348773241043,
+            "water": 0.22765907645225525,
+            "forest": 0.24039149284362793,
+            "farm": 0.23841041326522827
+        },
+        "expanded_image": "./output/image_221_expanded.png"
+    },
+    "image_222": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23213888704776764,
+            "industrial area": 0.2375747710466385,
+            "water": 0.26544198393821716,
+            "forest": 0.23470231890678406,
+            "farm": 0.22868652641773224
+        },
+        "expanded_image": "./output/image_222_expanded.png"
+    },
+    "image_223": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23354458808898926,
+            "industrial area": 0.24701234698295593,
+            "water": 0.24069182574748993,
+            "forest": 0.23780274391174316,
+            "farm": 0.24230514466762543
+        },
+        "expanded_image": "./output/image_223_expanded.png"
+    },
+    "image_224": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24157048761844635,
+            "industrial area": 0.2498481422662735,
+            "water": 0.229347363114357,
+            "forest": 0.2411339282989502,
+            "farm": 0.23436222970485687
+        },
+        "expanded_image": "./output/image_224_expanded.png"
+    },
+    "image_225": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.24271470308303833,
+            "industrial area": 0.25303319096565247,
+            "water": 0.2531513571739197,
+            "forest": 0.252840131521225,
+            "farm": 0.2475113570690155
+        },
+        "expanded_image": "./output/image_225_expanded.png"
+    },
+    "image_226": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22937533259391785,
+            "industrial area": 0.2460932731628418,
+            "water": 0.23000594973564148,
+            "forest": 0.23275302350521088,
+            "farm": 0.22786910831928253
+        },
+        "expanded_image": "./output/image_226_expanded.png"
+    },
+    "image_227": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2286483347415924,
+            "industrial area": 0.23499847948551178,
+            "water": 0.2295524626970291,
+            "forest": 0.22501598298549652,
+            "farm": 0.23138096928596497
+        },
+        "expanded_image": "./output/image_227_expanded.png"
+    },
+    "image_228": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22008787095546722,
+            "industrial area": 0.22901640832424164,
+            "water": 0.23297655582427979,
+            "forest": 0.22618946433067322,
+            "farm": 0.2277507185935974
+        },
+        "expanded_image": "./output/image_228_expanded.png"
+    },
+    "image_229": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2371976375579834,
+            "industrial area": 0.24691081047058105,
+            "water": 0.23721742630004883,
+            "forest": 0.2332570105791092,
+            "farm": 0.23653820157051086
+        },
+        "expanded_image": "./output/image_229_expanded.png"
+    },
+    "image_230": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2371744066476822,
+            "industrial area": 0.24693162739276886,
+            "water": 0.2426508367061615,
+            "forest": 0.24095779657363892,
+            "farm": 0.23739662766456604
+        },
+        "expanded_image": "./output/image_230_expanded.png"
+    },
+    "image_231": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2277943193912506,
+            "industrial area": 0.24070516228675842,
+            "water": 0.23768123984336853,
+            "forest": 0.24580781161785126,
+            "farm": 0.23761646449565887
+        },
+        "expanded_image": "./output/image_231_expanded.png"
+    },
+    "image_232": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24879354238510132,
+            "industrial area": 0.2580859065055847,
+            "water": 0.2473413199186325,
+            "forest": 0.24588173627853394,
+            "farm": 0.25143587589263916
+        },
+        "expanded_image": "./output/image_232_expanded.png"
+    },
+    "image_233": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2155173122882843,
+            "industrial area": 0.22907781600952148,
+            "water": 0.24534544348716736,
+            "forest": 0.21816091239452362,
+            "farm": 0.21860496699810028
+        },
+        "expanded_image": "./output/image_233_expanded.png"
+    },
+    "image_234": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22522056102752686,
+            "industrial area": 0.230280339717865,
+            "water": 0.24540966749191284,
+            "forest": 0.23561060428619385,
+            "farm": 0.2249314785003662
+        },
+        "expanded_image": "./output/image_234_expanded.png"
+    },
+    "image_235": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21969382464885712,
+            "industrial area": 0.22727124392986298,
+            "water": 0.2437436580657959,
+            "forest": 0.23600706458091736,
+            "farm": 0.2286054641008377
+        },
+        "expanded_image": "./output/image_235_expanded.png"
+    },
+    "image_236": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22895359992980957,
+            "industrial area": 0.23559781908988953,
+            "water": 0.23538242280483246,
+            "forest": 0.22214074432849884,
+            "farm": 0.23155952990055084
+        },
+        "expanded_image": "./output/image_236_expanded.png"
+    },
+    "image_237": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2291586846113205,
+            "industrial area": 0.2329758107662201,
+            "water": 0.23437897861003876,
+            "forest": 0.21322859823703766,
+            "farm": 0.2176201492547989
+        },
+        "expanded_image": "./output/image_237_expanded.png"
+    },
+    "image_238": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2140084207057953,
+            "industrial area": 0.2113426923751831,
+            "water": 0.22687415778636932,
+            "forest": 0.198281928896904,
+            "farm": 0.21990054845809937
+        },
+        "expanded_image": "./output/image_238_expanded.png"
+    },
+    "image_239": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21573400497436523,
+            "industrial area": 0.20979171991348267,
+            "water": 0.22502218186855316,
+            "forest": 0.20413482189178467,
+            "farm": 0.21787050366401672
+        },
+        "expanded_image": "./output/image_239_expanded.png"
+    },
+    "image_240": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21077629923820496,
+            "industrial area": 0.2058759331703186,
+            "water": 0.23336800932884216,
+            "forest": 0.20429342985153198,
+            "farm": 0.22287461161613464
+        },
+        "expanded_image": "./output/image_240_expanded.png"
+    },
+    "image_241": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22013722360134125,
+            "industrial area": 0.2316383719444275,
+            "water": 0.22771377861499786,
+            "forest": 0.23817430436611176,
+            "farm": 0.23688174784183502
+        },
+        "expanded_image": "./output/image_241_expanded.png"
+    },
+    "image_242": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22882552444934845,
+            "industrial area": 0.238124281167984,
+            "water": 0.24186646938323975,
+            "forest": 0.24035705626010895,
+            "farm": 0.23588033020496368
+        },
+        "expanded_image": "./output/image_242_expanded.png"
+    },
+    "image_243": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2217831015586853,
+            "industrial area": 0.23146952688694,
+            "water": 0.24490661919116974,
+            "forest": 0.25433677434921265,
+            "farm": 0.2349998652935028
+        },
+        "expanded_image": "./output/image_243_expanded.png"
+    },
+    "image_244": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2315560132265091,
+            "industrial area": 0.25711193680763245,
+            "water": 0.2390921413898468,
+            "forest": 0.23842261731624603,
+            "farm": 0.23802801966667175
+        },
+        "expanded_image": "./output/image_244_expanded.png"
+    },
+    "image_245": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22633816301822662,
+            "industrial area": 0.23909969627857208,
+            "water": 0.23746876418590546,
+            "forest": 0.2386299967765808,
+            "farm": 0.23295733332633972
+        },
+        "expanded_image": "./output/image_245_expanded.png"
+    },
+    "image_246": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23095005750656128,
+            "industrial area": 0.2444877326488495,
+            "water": 0.23150299489498138,
+            "forest": 0.22767052054405212,
+            "farm": 0.22957080602645874
+        },
+        "expanded_image": "./output/image_246_expanded.png"
+    },
+    "image_247": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23667778074741364,
+            "industrial area": 0.25101181864738464,
+            "water": 0.22611145675182343,
+            "forest": 0.2250228077173233,
+            "farm": 0.22744938731193542
+        },
+        "expanded_image": "./output/image_247_expanded.png"
+    },
+    "image_248": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22777147591114044,
+            "industrial area": 0.23634721338748932,
+            "water": 0.24672341346740723,
+            "forest": 0.24086973071098328,
+            "farm": 0.24149169027805328
+        },
+        "expanded_image": "./output/image_248_expanded.png"
+    },
+    "image_249": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23574002087116241,
+            "industrial area": 0.24646715819835663,
+            "water": 0.24583706259727478,
+            "forest": 0.24312466382980347,
+            "farm": 0.2343272566795349
+        },
+        "expanded_image": "./output/image_249_expanded.png"
+    },
+    "image_250": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2631909251213074,
+            "industrial area": 0.2742823660373688,
+            "water": 0.2208673059940338,
+            "forest": 0.23975348472595215,
+            "farm": 0.24742262065410614
+        },
+        "expanded_image": "./output/image_250_expanded.png"
+    },
+    "image_251": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2540534734725952,
+            "industrial area": 0.26760369539260864,
+            "water": 0.23863813281059265,
+            "forest": 0.2545011639595032,
+            "farm": 0.24763479828834534
+        },
+        "expanded_image": "./output/image_251_expanded.png"
+    },
+    "image_252": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20756866037845612,
+            "industrial area": 0.21961365640163422,
+            "water": 0.23877355456352234,
+            "forest": 0.22655370831489563,
+            "farm": 0.2151109129190445
+        },
+        "expanded_image": "./output/image_252_expanded.png"
+    },
+    "image_253": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23186221718788147,
+            "industrial area": 0.25649702548980713,
+            "water": 0.2215818613767624,
+            "forest": 0.2236015945672989,
+            "farm": 0.23754124343395233
+        },
+        "expanded_image": "./output/image_253_expanded.png"
+    },
+    "image_254": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2728298306465149,
+            "industrial area": 0.2782723605632782,
+            "water": 0.23005159199237823,
+            "forest": 0.24982184171676636,
+            "farm": 0.25981077551841736
+        },
+        "expanded_image": "./output/image_254_expanded.png"
+    },
+    "image_255": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2438378632068634,
+            "industrial area": 0.25770461559295654,
+            "water": 0.23303799331188202,
+            "forest": 0.22131069004535675,
+            "farm": 0.23516486585140228
+        },
+        "expanded_image": "./output/image_255_expanded.png"
+    },
+    "image_256": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2223036289215088,
+            "industrial area": 0.23622365295886993,
+            "water": 0.24055005609989166,
+            "forest": 0.23815728724002838,
+            "farm": 0.22646279633045197
+        },
+        "expanded_image": "./output/image_256_expanded.png"
+    },
+    "image_257": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23219230771064758,
+            "industrial area": 0.2412562072277069,
+            "water": 0.23829825222492218,
+            "forest": 0.2320295125246048,
+            "farm": 0.23808553814888
+        },
+        "expanded_image": "./output/image_257_expanded.png"
+    },
+    "image_258": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23610465228557587,
+            "industrial area": 0.23562724888324738,
+            "water": 0.24251686036586761,
+            "forest": 0.21819965541362762,
+            "farm": 0.22954332828521729
+        },
+        "expanded_image": "./output/image_258_expanded.png"
+    },
+    "image_259": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20941472053527832,
+            "industrial area": 0.20571227371692657,
+            "water": 0.22158366441726685,
+            "forest": 0.19655081629753113,
+            "farm": 0.2143879383802414
+        },
+        "expanded_image": "./output/image_259_expanded.png"
+    },
+    "image_260": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2065739780664444,
+            "industrial area": 0.2072601318359375,
+            "water": 0.2301485240459442,
+            "forest": 0.20497849583625793,
+            "farm": 0.22381491959095
+        },
+        "expanded_image": "./output/image_260_expanded.png"
+    },
+    "image_261": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.216704860329628,
+            "industrial area": 0.22027656435966492,
+            "water": 0.22829577326774597,
+            "forest": 0.23634184896945953,
+            "farm": 0.23071697354316711
+        },
+        "expanded_image": "./output/image_261_expanded.png"
+    },
+    "image_262": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23048415780067444,
+            "industrial area": 0.2380990982055664,
+            "water": 0.24297386407852173,
+            "forest": 0.25573116540908813,
+            "farm": 0.23947995901107788
+        },
+        "expanded_image": "./output/image_262_expanded.png"
+    },
+    "image_263": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23386192321777344,
+            "industrial area": 0.2440146505832672,
+            "water": 0.2568226754665375,
+            "forest": 0.2498321831226349,
+            "farm": 0.2393062710762024
+        },
+        "expanded_image": "./output/image_263_expanded.png"
+    },
+    "image_264": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21961092948913574,
+            "industrial area": 0.22938252985477448,
+            "water": 0.24209897220134735,
+            "forest": 0.2400401532649994,
+            "farm": 0.22864274680614471
+        },
+        "expanded_image": "./output/image_264_expanded.png"
+    },
+    "image_265": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23043951392173767,
+            "industrial area": 0.24188154935836792,
+            "water": 0.25228795409202576,
+            "forest": 0.2522384524345398,
+            "farm": 0.23878872394561768
+        },
+        "expanded_image": "./output/image_265_expanded.png"
+    },
+    "image_266": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23135006427764893,
+            "industrial area": 0.23594269156455994,
+            "water": 0.24036577343940735,
+            "forest": 0.25087255239486694,
+            "farm": 0.22889472544193268
+        },
+        "expanded_image": "./output/image_266_expanded.png"
+    },
+    "image_267": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23318655788898468,
+            "industrial area": 0.24113544821739197,
+            "water": 0.23686009645462036,
+            "forest": 0.23993054032325745,
+            "farm": 0.23655587434768677
+        },
+        "expanded_image": "./output/image_267_expanded.png"
+    },
+    "image_268": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23714160919189453,
+            "industrial area": 0.23983854055404663,
+            "water": 0.24600167572498322,
+            "forest": 0.23993811011314392,
+            "farm": 0.2445138543844223
+        },
+        "expanded_image": "./output/image_268_expanded.png"
+    },
+    "image_269": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22575204074382782,
+            "industrial area": 0.23574189841747284,
+            "water": 0.24280083179473877,
+            "forest": 0.23642779886722565,
+            "farm": 0.23921121656894684
+        },
+        "expanded_image": "./output/image_269_expanded.png"
+    },
+    "image_270": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23945190012454987,
+            "industrial area": 0.2593390941619873,
+            "water": 0.22634455561637878,
+            "forest": 0.22614392638206482,
+            "farm": 0.2286563664674759
+        },
+        "expanded_image": "./output/image_270_expanded.png"
+    },
+    "image_271": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.207931786775589,
+            "industrial area": 0.2223958522081375,
+            "water": 0.23395857214927673,
+            "forest": 0.2319929152727127,
+            "farm": 0.22192105650901794
+        },
+        "expanded_image": "./output/image_271_expanded.png"
+    },
+    "image_272": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2330215573310852,
+            "industrial area": 0.25054800510406494,
+            "water": 0.23769037425518036,
+            "forest": 0.24566900730133057,
+            "farm": 0.22986121475696564
+        },
+        "expanded_image": "./output/image_272_expanded.png"
+    },
+    "image_273": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22001662850379944,
+            "industrial area": 0.22514398396015167,
+            "water": 0.23134298622608185,
+            "forest": 0.2362126111984253,
+            "farm": 0.23071551322937012
+        },
+        "expanded_image": "./output/image_273_expanded.png"
+    },
+    "image_274": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24841301143169403,
+            "industrial area": 0.2808758616447449,
+            "water": 0.21005879342556,
+            "forest": 0.21747705340385437,
+            "farm": 0.24560841917991638
+        },
+        "expanded_image": "./output/image_274_expanded.png"
+    },
+    "image_275": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25096118450164795,
+            "industrial area": 0.26342591643333435,
+            "water": 0.2181067019701004,
+            "forest": 0.2086566686630249,
+            "farm": 0.22875995934009552
+        },
+        "expanded_image": "./output/image_275_expanded.png"
+    },
+    "image_276": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2542588412761688,
+            "industrial area": 0.2750421166419983,
+            "water": 0.21704013645648956,
+            "forest": 0.21733567118644714,
+            "farm": 0.24087011814117432
+        },
+        "expanded_image": "./output/image_276_expanded.png"
+    },
+    "image_277": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2509766221046448,
+            "industrial area": 0.29094406962394714,
+            "water": 0.20989081263542175,
+            "forest": 0.2114618867635727,
+            "farm": 0.22850152850151062
+        },
+        "expanded_image": "./output/image_277_expanded.png"
+    },
+    "image_278": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24834343791007996,
+            "industrial area": 0.2576066255569458,
+            "water": 0.21740025281906128,
+            "forest": 0.20031459629535675,
+            "farm": 0.2182427942752838
+        },
+        "expanded_image": "./output/image_278_expanded.png"
+    },
+    "image_279": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23877274990081787,
+            "industrial area": 0.24609723687171936,
+            "water": 0.2356107383966446,
+            "forest": 0.20730555057525635,
+            "farm": 0.22916077077388763
+        },
+        "expanded_image": "./output/image_279_expanded.png"
+    },
+    "image_280": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21821773052215576,
+            "industrial area": 0.22112521529197693,
+            "water": 0.23705685138702393,
+            "forest": 0.2197931408882141,
+            "farm": 0.21582554280757904
+        },
+        "expanded_image": "./output/image_280_expanded.png"
+    },
+    "image_281": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22515968978405,
+            "industrial area": 0.226109579205513,
+            "water": 0.23091650009155273,
+            "forest": 0.2578803598880768,
+            "farm": 0.23308177292346954
+        },
+        "expanded_image": "./output/image_281_expanded.png"
+    },
+    "image_282": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2299574911594391,
+            "industrial area": 0.24399863183498383,
+            "water": 0.24486656486988068,
+            "forest": 0.2563803493976593,
+            "farm": 0.24156633019447327
+        },
+        "expanded_image": "./output/image_282_expanded.png"
+    },
+    "image_283": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2312314361333847,
+            "industrial area": 0.24215561151504517,
+            "water": 0.24528153240680695,
+            "forest": 0.2441982924938202,
+            "farm": 0.23141556978225708
+        },
+        "expanded_image": "./output/image_283_expanded.png"
+    },
+    "image_284": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2230326533317566,
+            "industrial area": 0.23245224356651306,
+            "water": 0.24743813276290894,
+            "forest": 0.2556706368923187,
+            "farm": 0.2283659726381302
+        },
+        "expanded_image": "./output/image_284_expanded.png"
+    },
+    "image_285": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2226795256137848,
+            "industrial area": 0.23131701350212097,
+            "water": 0.25016266107559204,
+            "forest": 0.23544779419898987,
+            "farm": 0.2247442603111267
+        },
+        "expanded_image": "./output/image_285_expanded.png"
+    },
+    "image_286": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23969081044197083,
+            "industrial area": 0.23959606885910034,
+            "water": 0.23618976771831512,
+            "forest": 0.2510358393192291,
+            "farm": 0.2372686117887497
+        },
+        "expanded_image": "./output/image_286_expanded.png"
+    },
+    "image_287": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2235213816165924,
+            "industrial area": 0.22816124558448792,
+            "water": 0.24462075531482697,
+            "forest": 0.24090957641601562,
+            "farm": 0.24185289442539215
+        },
+        "expanded_image": "./output/image_287_expanded.png"
+    },
+    "image_288": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2550411522388458,
+            "industrial area": 0.2585693299770355,
+            "water": 0.2317827343940735,
+            "forest": 0.24408000707626343,
+            "farm": 0.2549663782119751
+        },
+        "expanded_image": "./output/image_288_expanded.png"
+    },
+    "image_289": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22921229898929596,
+            "industrial area": 0.23838527500629425,
+            "water": 0.24284297227859497,
+            "forest": 0.23639287054538727,
+            "farm": 0.23418880999088287
+        },
+        "expanded_image": "./output/image_289_expanded.png"
+    },
+    "image_290": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25140655040740967,
+            "industrial area": 0.26845771074295044,
+            "water": 0.2338610291481018,
+            "forest": 0.24370409548282623,
+            "farm": 0.25188136100769043
+        },
+        "expanded_image": "./output/image_290_expanded.png"
+    },
+    "image_291": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2261883169412613,
+            "industrial area": 0.24225632846355438,
+            "water": 0.23579739034175873,
+            "forest": 0.24205932021141052,
+            "farm": 0.23078016936779022
+        },
+        "expanded_image": "./output/image_291_expanded.png"
+    },
+    "image_292": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2659216821193695,
+            "industrial area": 0.26961544156074524,
+            "water": 0.2340673804283142,
+            "forest": 0.2510461211204529,
+            "farm": 0.2433854341506958
+        },
+        "expanded_image": "./output/image_292_expanded.png"
+    },
+    "image_293": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25711512565612793,
+            "industrial area": 0.2616109251976013,
+            "water": 0.22602799534797668,
+            "forest": 0.22261281311511993,
+            "farm": 0.229975163936615
+        },
+        "expanded_image": "./output/image_293_expanded.png"
+    },
+    "image_294": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25038203597068787,
+            "industrial area": 0.26162537932395935,
+            "water": 0.21882855892181396,
+            "forest": 0.21561361849308014,
+            "farm": 0.23100361227989197
+        },
+        "expanded_image": "./output/image_294_expanded.png"
+    },
+    "image_295": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24066095054149628,
+            "industrial area": 0.250093936920166,
+            "water": 0.2200722098350525,
+            "forest": 0.2145981788635254,
+            "farm": 0.21736006438732147
+        },
+        "expanded_image": "./output/image_295_expanded.png"
+    },
+    "image_296": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25424525141716003,
+            "industrial area": 0.26167425513267517,
+            "water": 0.2229512333869934,
+            "forest": 0.22353290021419525,
+            "farm": 0.23324279487133026
+        },
+        "expanded_image": "./output/image_296_expanded.png"
+    },
+    "image_297": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2520348131656647,
+            "industrial area": 0.2639497220516205,
+            "water": 0.2176888883113861,
+            "forest": 0.21320950984954834,
+            "farm": 0.22217200696468353
+        },
+        "expanded_image": "./output/image_297_expanded.png"
+    },
+    "image_298": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2426702082157135,
+            "industrial area": 0.2599966526031494,
+            "water": 0.23111027479171753,
+            "forest": 0.20872646570205688,
+            "farm": 0.22938655316829681
+        },
+        "expanded_image": "./output/image_298_expanded.png"
+    },
+    "image_299": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21325603127479553,
+            "industrial area": 0.22464129328727722,
+            "water": 0.24081741273403168,
+            "forest": 0.2327474057674408,
+            "farm": 0.23065534234046936
+        },
+        "expanded_image": "./output/image_299_expanded.png"
+    },
+    "image_300": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21670490503311157,
+            "industrial area": 0.22987622022628784,
+            "water": 0.24110957980155945,
+            "forest": 0.2283354103565216,
+            "farm": 0.21596351265907288
+        },
+        "expanded_image": "./output/image_300_expanded.png"
+    },
+    "image_301": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23760907351970673,
+            "industrial area": 0.24997125566005707,
+            "water": 0.2380138635635376,
+            "forest": 0.2507149279117584,
+            "farm": 0.22775611281394958
+        },
+        "expanded_image": "./output/image_301_expanded.png"
+    },
+    "image_302": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.23510058224201202,
+            "industrial area": 0.2473263144493103,
+            "water": 0.23994240164756775,
+            "forest": 0.2558557987213135,
+            "farm": 0.2364547848701477
+        },
+        "expanded_image": "./output/image_302_expanded.png"
+    },
+    "image_303": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22657561302185059,
+            "industrial area": 0.2425505518913269,
+            "water": 0.24401725828647614,
+            "forest": 0.24912673234939575,
+            "farm": 0.22774341702461243
+        },
+        "expanded_image": "./output/image_303_expanded.png"
+    },
+    "image_304": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25642120838165283,
+            "industrial area": 0.2720262408256531,
+            "water": 0.22086770832538605,
+            "forest": 0.2371668964624405,
+            "farm": 0.2556653320789337
+        },
+        "expanded_image": "./output/image_304_expanded.png"
+    },
+    "image_305": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.21935173869132996,
+            "industrial area": 0.22964859008789062,
+            "water": 0.2308007776737213,
+            "forest": 0.24053610861301422,
+            "farm": 0.22564074397087097
+        },
+        "expanded_image": "./output/image_305_expanded.png"
+    },
+    "image_306": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23897242546081543,
+            "industrial area": 0.25219985842704773,
+            "water": 0.2329649180173874,
+            "forest": 0.2331080138683319,
+            "farm": 0.23648419976234436
+        },
+        "expanded_image": "./output/image_306_expanded.png"
+    },
+    "image_307": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22583724558353424,
+            "industrial area": 0.23330193758010864,
+            "water": 0.22975581884384155,
+            "forest": 0.2312573343515396,
+            "farm": 0.23218129575252533
+        },
+        "expanded_image": "./output/image_307_expanded.png"
+    },
+    "image_308": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23961447179317474,
+            "industrial area": 0.244953915476799,
+            "water": 0.25172051787376404,
+            "forest": 0.24725694954395294,
+            "farm": 0.24879376590251923
+        },
+        "expanded_image": "./output/image_308_expanded.png"
+    },
+    "image_309": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2191982865333557,
+            "industrial area": 0.22762463986873627,
+            "water": 0.24703174829483032,
+            "forest": 0.23817849159240723,
+            "farm": 0.2311108559370041
+        },
+        "expanded_image": "./output/image_309_expanded.png"
+    },
+    "image_310": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22848612070083618,
+            "industrial area": 0.2422269582748413,
+            "water": 0.23440125584602356,
+            "forest": 0.23674820363521576,
+            "farm": 0.23572349548339844
+        },
+        "expanded_image": "./output/image_310_expanded.png"
+    },
+    "image_311": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23927901685237885,
+            "industrial area": 0.24476183950901031,
+            "water": 0.23584510385990143,
+            "forest": 0.24218052625656128,
+            "farm": 0.24461354315280914
+        },
+        "expanded_image": "./output/image_311_expanded.png"
+    },
+    "image_312": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23533746600151062,
+            "industrial area": 0.2532963752746582,
+            "water": 0.23433266580104828,
+            "forest": 0.23718395829200745,
+            "farm": 0.2324032336473465
+        },
+        "expanded_image": "./output/image_312_expanded.png"
+    },
+    "image_313": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2558184862136841,
+            "industrial area": 0.2688919007778168,
+            "water": 0.2179308533668518,
+            "forest": 0.2119954228401184,
+            "farm": 0.21445497870445251
+        },
+        "expanded_image": "./output/image_313_expanded.png"
+    },
+    "image_314": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25085997581481934,
+            "industrial area": 0.26653680205345154,
+            "water": 0.23601090908050537,
+            "forest": 0.21459554135799408,
+            "farm": 0.22613802552223206
+        },
+        "expanded_image": "./output/image_314_expanded.png"
+    },
+    "image_315": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23906780779361725,
+            "industrial area": 0.24802467226982117,
+            "water": 0.2402237057685852,
+            "forest": 0.2364116609096527,
+            "farm": 0.23052798211574554
+        },
+        "expanded_image": "./output/image_315_expanded.png"
+    },
+    "image_316": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2514440417289734,
+            "industrial area": 0.26262804865837097,
+            "water": 0.23029029369354248,
+            "forest": 0.23613134026527405,
+            "farm": 0.2370421588420868
+        },
+        "expanded_image": "./output/image_316_expanded.png"
+    },
+    "image_317": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24033494293689728,
+            "industrial area": 0.2522425949573517,
+            "water": 0.22792942821979523,
+            "forest": 0.2353558987379074,
+            "farm": 0.2331964075565338
+        },
+        "expanded_image": "./output/image_317_expanded.png"
+    },
+    "image_318": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25410300493240356,
+            "industrial area": 0.26650455594062805,
+            "water": 0.22409619390964508,
+            "forest": 0.23375867307186127,
+            "farm": 0.25990375876426697
+        },
+        "expanded_image": "./output/image_318_expanded.png"
+    },
+    "image_319": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23242060840129852,
+            "industrial area": 0.25158417224884033,
+            "water": 0.2073862999677658,
+            "forest": 0.22070063650608063,
+            "farm": 0.22598636150360107
+        },
+        "expanded_image": "./output/image_319_expanded.png"
+    },
+    "image_320": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2260833978652954,
+            "industrial area": 0.24436920881271362,
+            "water": 0.22348935902118683,
+            "forest": 0.21354800462722778,
+            "farm": 0.23327156901359558
+        },
+        "expanded_image": "./output/image_320_expanded.png"
+    },
+    "image_321": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2585395574569702,
+            "industrial area": 0.26370272040367126,
+            "water": 0.2275484800338745,
+            "forest": 0.24522727727890015,
+            "farm": 0.2490418255329132
+        },
+        "expanded_image": "./output/image_321_expanded.png"
+    },
+    "image_322": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23657700419425964,
+            "industrial area": 0.2487475872039795,
+            "water": 0.2355845421552658,
+            "forest": 0.21566790342330933,
+            "farm": 0.22890590131282806
+        },
+        "expanded_image": "./output/image_322_expanded.png"
+    },
+    "image_323": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24974176287651062,
+            "industrial area": 0.2612752616405487,
+            "water": 0.22517074644565582,
+            "forest": 0.22602835297584534,
+            "farm": 0.23939040303230286
+        },
+        "expanded_image": "./output/image_323_expanded.png"
+    },
+    "image_324": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.22893483936786652,
+            "industrial area": 0.23547793924808502,
+            "water": 0.2342253029346466,
+            "forest": 0.2181277573108673,
+            "farm": 0.2434033900499344
+        },
+        "expanded_image": "./output/image_324_expanded.png"
+    },
+    "image_325": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22638873755931854,
+            "industrial area": 0.2420007288455963,
+            "water": 0.236984983086586,
+            "forest": 0.21687664091587067,
+            "farm": 0.23121078312397003
+        },
+        "expanded_image": "./output/image_325_expanded.png"
+    },
+    "image_326": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2345503866672516,
+            "industrial area": 0.24478550255298615,
+            "water": 0.2517561614513397,
+            "forest": 0.23014011979103088,
+            "farm": 0.23228731751441956
+        },
+        "expanded_image": "./output/image_326_expanded.png"
+    },
+    "image_327": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2213633507490158,
+            "industrial area": 0.23022404313087463,
+            "water": 0.2321997731924057,
+            "forest": 0.22425085306167603,
+            "farm": 0.2307543158531189
+        },
+        "expanded_image": "./output/image_327_expanded.png"
+    },
+    "image_328": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23056462407112122,
+            "industrial area": 0.23962359130382538,
+            "water": 0.2407837212085724,
+            "forest": 0.2389630377292633,
+            "farm": 0.23793530464172363
+        },
+        "expanded_image": "./output/image_328_expanded.png"
+    },
+    "image_329": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21183019876480103,
+            "industrial area": 0.22123125195503235,
+            "water": 0.23304571211338043,
+            "forest": 0.22213950753211975,
+            "farm": 0.22655385732650757
+        },
+        "expanded_image": "./output/image_329_expanded.png"
+    },
+    "image_330": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.2132939100265503,
+            "industrial area": 0.2255559265613556,
+            "water": 0.22515997290611267,
+            "forest": 0.22079363465309143,
+            "farm": 0.22637724876403809
+        },
+        "expanded_image": "./output/image_330_expanded.png"
+    },
+    "image_331": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25470423698425293,
+            "industrial area": 0.2737634778022766,
+            "water": 0.226039320230484,
+            "forest": 0.234434112906456,
+            "farm": 0.25255057215690613
+        },
+        "expanded_image": "./output/image_331_expanded.png"
+    },
+    "image_332": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2589196562767029,
+            "industrial area": 0.26285725831985474,
+            "water": 0.2247704714536667,
+            "forest": 0.22319649159908295,
+            "farm": 0.23004695773124695
+        },
+        "expanded_image": "./output/image_332_expanded.png"
+    },
+    "image_333": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.25539714097976685,
+            "industrial area": 0.26488420367240906,
+            "water": 0.2422669678926468,
+            "forest": 0.21810640394687653,
+            "farm": 0.2380325049161911
+        },
+        "expanded_image": "./output/image_333_expanded.png"
+    },
+    "image_334": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22519327700138092,
+            "industrial area": 0.23490740358829498,
+            "water": 0.23377110064029694,
+            "forest": 0.23948712646961212,
+            "farm": 0.23382869362831116
+        },
+        "expanded_image": "./output/image_334_expanded.png"
+    },
+    "image_335": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2245074063539505,
+            "industrial area": 0.23539049923419952,
+            "water": 0.2511836290359497,
+            "forest": 0.24409641325473785,
+            "farm": 0.2347189486026764
+        },
+        "expanded_image": "./output/image_335_expanded.png"
+    },
+    "image_336": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.21927042305469513,
+            "industrial area": 0.23357552289962769,
+            "water": 0.22538578510284424,
+            "forest": 0.22011920809745789,
+            "farm": 0.22612449526786804
+        },
+        "expanded_image": "./output/image_336_expanded.png"
+    },
+    "image_337": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21885038912296295,
+            "industrial area": 0.23137155175209045,
+            "water": 0.2362537533044815,
+            "forest": 0.23103272914886475,
+            "farm": 0.23055404424667358
+        },
+        "expanded_image": "./output/image_337_expanded.png"
+    },
+    "image_338": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21511079370975494,
+            "industrial area": 0.22809356451034546,
+            "water": 0.23597517609596252,
+            "forest": 0.22250428795814514,
+            "farm": 0.21903067827224731
+        },
+        "expanded_image": "./output/image_338_expanded.png"
+    },
+    "image_339": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23887643218040466,
+            "industrial area": 0.26629436016082764,
+            "water": 0.21328172087669373,
+            "forest": 0.22450041770935059,
+            "farm": 0.23735442757606506
+        },
+        "expanded_image": "./output/image_339_expanded.png"
+    },
+    "image_340": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2250259518623352,
+            "industrial area": 0.23915734887123108,
+            "water": 0.2497185468673706,
+            "forest": 0.2389974147081375,
+            "farm": 0.22691959142684937
+        },
+        "expanded_image": "./output/image_340_expanded.png"
+    },
+    "image_341": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2308669090270996,
+            "industrial area": 0.24428074061870575,
+            "water": 0.24254249036312103,
+            "forest": 0.23786400258541107,
+            "farm": 0.22973722219467163
+        },
+        "expanded_image": "./output/image_341_expanded.png"
+    },
+    "image_342": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22340624034404755,
+            "industrial area": 0.2363063544034958,
+            "water": 0.2396417111158371,
+            "forest": 0.22696910798549652,
+            "farm": 0.23497658967971802
+        },
+        "expanded_image": "./output/image_342_expanded.png"
+    },
+    "image_343": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21224218606948853,
+            "industrial area": 0.22555968165397644,
+            "water": 0.2260928899049759,
+            "forest": 0.2188311070203781,
+            "farm": 0.22088144719600677
+        },
+        "expanded_image": "./output/image_343_expanded.png"
+    },
+    "image_344": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2133384644985199,
+            "industrial area": 0.23239988088607788,
+            "water": 0.2468568980693817,
+            "forest": 0.21988147497177124,
+            "farm": 0.2219824343919754
+        },
+        "expanded_image": "./output/image_344_expanded.png"
+    },
+    "image_345": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.229776531457901,
+            "industrial area": 0.2364824414253235,
+            "water": 0.24344202876091003,
+            "forest": 0.2348712831735611,
+            "farm": 0.2366820126771927
+        },
+        "expanded_image": "./output/image_345_expanded.png"
+    },
+    "image_346": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23074132204055786,
+            "industrial area": 0.23890255391597748,
+            "water": 0.24672828614711761,
+            "forest": 0.21958942711353302,
+            "farm": 0.22568893432617188
+        },
+        "expanded_image": "./output/image_346_expanded.png"
+    },
+    "image_347": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22172807157039642,
+            "industrial area": 0.23206669092178345,
+            "water": 0.23584888875484467,
+            "forest": 0.2187744677066803,
+            "farm": 0.23095998167991638
+        },
+        "expanded_image": "./output/image_347_expanded.png"
+    },
+    "image_348": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.21725517511367798,
+            "industrial area": 0.23031599819660187,
+            "water": 0.22007369995117188,
+            "forest": 0.21544048190116882,
+            "farm": 0.2175007462501526
+        },
+        "expanded_image": "./output/image_348_expanded.png"
+    },
+    "image_349": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2356526404619217,
+            "industrial area": 0.24795252084732056,
+            "water": 0.22939303517341614,
+            "forest": 0.22229118645191193,
+            "farm": 0.23109742999076843
+        },
+        "expanded_image": "./output/image_349_expanded.png"
+    },
+    "image_350": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2327425181865692,
+            "industrial area": 0.24337899684906006,
+            "water": 0.22130943834781647,
+            "forest": 0.2131710946559906,
+            "farm": 0.23827752470970154
+        },
+        "expanded_image": "./output/image_350_expanded.png"
+    },
+    "image_351": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2466791719198227,
+            "industrial area": 0.2607973515987396,
+            "water": 0.2274673879146576,
+            "forest": 0.22460171580314636,
+            "farm": 0.23682326078414917
+        },
+        "expanded_image": "./output/image_351_expanded.png"
+    },
+    "image_352": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22385597229003906,
+            "industrial area": 0.24103274941444397,
+            "water": 0.2152641862630844,
+            "forest": 0.21850250661373138,
+            "farm": 0.2219669222831726
+        },
+        "expanded_image": "./output/image_352_expanded.png"
+    },
+    "image_353": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.243583545088768,
+            "industrial area": 0.2531736493110657,
+            "water": 0.23328107595443726,
+            "forest": 0.23245634138584137,
+            "farm": 0.23233705759048462
+        },
+        "expanded_image": "./output/image_353_expanded.png"
+    },
+    "image_354": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22477351129055023,
+            "industrial area": 0.2301195114850998,
+            "water": 0.2565765082836151,
+            "forest": 0.24309192597866058,
+            "farm": 0.22859370708465576
+        },
+        "expanded_image": "./output/image_354_expanded.png"
+    },
+    "image_355": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2281092405319214,
+            "industrial area": 0.23926368355751038,
+            "water": 0.24663035571575165,
+            "forest": 0.23143337666988373,
+            "farm": 0.23397096991539001
+        },
+        "expanded_image": "./output/image_355_expanded.png"
+    },
+    "image_356": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.23240964114665985,
+            "industrial area": 0.2496207058429718,
+            "water": 0.2262762486934662,
+            "forest": 0.23756787180900574,
+            "farm": 0.25157126784324646
+        },
+        "expanded_image": "./output/image_356_expanded.png"
+    },
+    "image_357": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21819789707660675,
+            "industrial area": 0.22321192920207977,
+            "water": 0.25460609793663025,
+            "forest": 0.24865306913852692,
+            "farm": 0.23268909752368927
+        },
+        "expanded_image": "./output/image_357_expanded.png"
+    },
+    "image_358": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2166651338338852,
+            "industrial area": 0.22528517246246338,
+            "water": 0.23827645182609558,
+            "forest": 0.23579922318458557,
+            "farm": 0.23072147369384766
+        },
+        "expanded_image": "./output/image_358_expanded.png"
+    },
+    "image_359": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2476796954870224,
+            "industrial area": 0.270365446805954,
+            "water": 0.2351476103067398,
+            "forest": 0.23162275552749634,
+            "farm": 0.2469071000814438
+        },
+        "expanded_image": "./output/image_359_expanded.png"
+    },
+    "image_360": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21262425184249878,
+            "industrial area": 0.22724145650863647,
+            "water": 0.24445730447769165,
+            "forest": 0.24218519032001495,
+            "farm": 0.22387221455574036
+        },
+        "expanded_image": "./output/image_360_expanded.png"
+    },
+    "image_361": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24117663502693176,
+            "industrial area": 0.2544611990451813,
+            "water": 0.22045846283435822,
+            "forest": 0.2273993194103241,
+            "farm": 0.22717253863811493
+        },
+        "expanded_image": "./output/image_361_expanded.png"
+    },
+    "image_362": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22639986872673035,
+            "industrial area": 0.23748770356178284,
+            "water": 0.23615606129169464,
+            "forest": 0.22409293055534363,
+            "farm": 0.2283751368522644
+        },
+        "expanded_image": "./output/image_362_expanded.png"
+    },
+    "image_363": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22056610882282257,
+            "industrial area": 0.23098750412464142,
+            "water": 0.24894510209560394,
+            "forest": 0.22797150909900665,
+            "farm": 0.2328306883573532
+        },
+        "expanded_image": "./output/image_363_expanded.png"
+    },
+    "image_364": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.20871347188949585,
+            "industrial area": 0.21846090257167816,
+            "water": 0.23056145012378693,
+            "forest": 0.2200186401605606,
+            "farm": 0.21962027251720428
+        },
+        "expanded_image": "./output/image_364_expanded.png"
+    },
+    "image_365": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2178049385547638,
+            "industrial area": 0.23086582124233246,
+            "water": 0.24093419313430786,
+            "forest": 0.2312827855348587,
+            "farm": 0.22211387753486633
+        },
+        "expanded_image": "./output/image_365_expanded.png"
+    },
+    "image_366": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24110183119773865,
+            "industrial area": 0.2574218213558197,
+            "water": 0.23008783161640167,
+            "forest": 0.2389068901538849,
+            "farm": 0.24578793346881866
+        },
+        "expanded_image": "./output/image_366_expanded.png"
+    },
+    "image_367": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.225773885846138,
+            "industrial area": 0.23386898636817932,
+            "water": 0.22956058382987976,
+            "forest": 0.22762680053710938,
+            "farm": 0.23103101551532745
+        },
+        "expanded_image": "./output/image_367_expanded.png"
+    },
+    "image_368": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21612639725208282,
+            "industrial area": 0.22429530322551727,
+            "water": 0.23811420798301697,
+            "forest": 0.23719051480293274,
+            "farm": 0.2319883108139038
+        },
+        "expanded_image": "./output/image_368_expanded.png"
+    },
+    "image_369": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2508779764175415,
+            "industrial area": 0.26445215940475464,
+            "water": 0.22667768597602844,
+            "forest": 0.23732656240463257,
+            "farm": 0.2519834339618683
+        },
+        "expanded_image": "./output/image_369_expanded.png"
+    },
+    "image_370": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22094140946865082,
+            "industrial area": 0.23949648439884186,
+            "water": 0.23021602630615234,
+            "forest": 0.2277187705039978,
+            "farm": 0.22569818794727325
+        },
+        "expanded_image": "./output/image_370_expanded.png"
+    },
+    "image_371": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.23625066876411438,
+            "industrial area": 0.2474582940340042,
+            "water": 0.2503540813922882,
+            "forest": 0.2343582808971405,
+            "farm": 0.2364707887172699
+        },
+        "expanded_image": "./output/image_371_expanded.png"
+    },
+    "image_372": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22551721334457397,
+            "industrial area": 0.2225421667098999,
+            "water": 0.24016891419887543,
+            "forest": 0.2653803825378418,
+            "farm": 0.23511727154254913
+        },
+        "expanded_image": "./output/image_372_expanded.png"
+    },
+    "image_373": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24042874574661255,
+            "industrial area": 0.25421398878097534,
+            "water": 0.22829042375087738,
+            "forest": 0.2278570979833603,
+            "farm": 0.23322723805904388
+        },
+        "expanded_image": "./output/image_373_expanded.png"
+    },
+    "image_374": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21448008716106415,
+            "industrial area": 0.22670233249664307,
+            "water": 0.25073182582855225,
+            "forest": 0.24498723447322845,
+            "farm": 0.23158788681030273
+        },
+        "expanded_image": "./output/image_374_expanded.png"
+    },
+    "image_375": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22774675488471985,
+            "industrial area": 0.2357301265001297,
+            "water": 0.24113312363624573,
+            "forest": 0.23211972415447235,
+            "farm": 0.23246364295482635
+        },
+        "expanded_image": "./output/image_375_expanded.png"
+    },
+    "image_376": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2195417732000351,
+            "industrial area": 0.22371158003807068,
+            "water": 0.2577591836452484,
+            "forest": 0.23751933872699738,
+            "farm": 0.22606590390205383
+        },
+        "expanded_image": "./output/image_376_expanded.png"
+    },
+    "image_377": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2206597626209259,
+            "industrial area": 0.231530100107193,
+            "water": 0.22465115785598755,
+            "forest": 0.23858870565891266,
+            "farm": 0.22784078121185303
+        },
+        "expanded_image": "./output/image_377_expanded.png"
+    },
+    "image_378": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2339228391647339,
+            "industrial area": 0.24492907524108887,
+            "water": 0.23648031055927277,
+            "forest": 0.23584064841270447,
+            "farm": 0.23635244369506836
+        },
+        "expanded_image": "./output/image_378_expanded.png"
+    },
+    "image_379": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.227089062333107,
+            "industrial area": 0.24249637126922607,
+            "water": 0.22829632461071014,
+            "forest": 0.22566664218902588,
+            "farm": 0.22338217496871948
+        },
+        "expanded_image": "./output/image_379_expanded.png"
+    },
+    "image_380": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24930933117866516,
+            "industrial area": 0.2669050395488739,
+            "water": 0.22307661175727844,
+            "forest": 0.22523416578769684,
+            "farm": 0.2401726394891739
+        },
+        "expanded_image": "./output/image_380_expanded.png"
+    },
+    "image_381": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24279054999351501,
+            "industrial area": 0.25912073254585266,
+            "water": 0.23511096835136414,
+            "forest": 0.22732491791248322,
+            "farm": 0.23584124445915222
+        },
+        "expanded_image": "./output/image_381_expanded.png"
+    },
+    "image_382": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24278484284877777,
+            "industrial area": 0.2549428343772888,
+            "water": 0.2368929535150528,
+            "forest": 0.23369374871253967,
+            "farm": 0.23987944424152374
+        },
+        "expanded_image": "./output/image_382_expanded.png"
+    },
+    "image_383": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.2206983119249344,
+            "industrial area": 0.224774569272995,
+            "water": 0.2325676679611206,
+            "forest": 0.24256771802902222,
+            "farm": 0.22092454135417938
+        },
+        "expanded_image": "./output/image_383_expanded.png"
+    },
+    "image_384": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.21726176142692566,
+            "industrial area": 0.2327967882156372,
+            "water": 0.2366182804107666,
+            "forest": 0.2456921488046646,
+            "farm": 0.23899789154529572
+        },
+        "expanded_image": "./output/image_384_expanded.png"
+    },
+    "image_385": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.24550753831863403,
+            "industrial area": 0.26127997040748596,
+            "water": 0.2379463165998459,
+            "forest": 0.25172483921051025,
+            "farm": 0.2498226761817932
+        },
+        "expanded_image": "./output/image_385_expanded.png"
+    },
+    "image_386": {
+        "best_class": "farm",
+        "scores": {
+            "residential area": 0.23008526861667633,
+            "industrial area": 0.2439713329076767,
+            "water": 0.23369991779327393,
+            "forest": 0.2453462928533554,
+            "farm": 0.24544890224933624
+        },
+        "expanded_image": "./output/image_386_expanded.png"
+    },
+    "image_387": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22702042758464813,
+            "industrial area": 0.2361367642879486,
+            "water": 0.2392147034406662,
+            "forest": 0.25558772683143616,
+            "farm": 0.24282701313495636
+        },
+        "expanded_image": "./output/image_387_expanded.png"
+    },
+    "image_388": {
+        "best_class": "forest",
+        "scores": {
+            "residential area": 0.22284840047359467,
+            "industrial area": 0.2320716679096222,
+            "water": 0.23512350022792816,
+            "forest": 0.24415095150470734,
+            "farm": 0.22973930835723877
+        },
+        "expanded_image": "./output/image_388_expanded.png"
+    },
+    "image_389": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.22464342415332794,
+            "industrial area": 0.2371159940958023,
+            "water": 0.23599019646644592,
+            "forest": 0.22816982865333557,
+            "farm": 0.22533495724201202
+        },
+        "expanded_image": "./output/image_389_expanded.png"
+    },
+    "image_390": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.22115574777126312,
+            "industrial area": 0.23149336874485016,
+            "water": 0.25005897879600525,
+            "forest": 0.2361748367547989,
+            "farm": 0.2270733118057251
+        },
+        "expanded_image": "./output/image_390_expanded.png"
+    },
+    "image_391": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23610438406467438,
+            "industrial area": 0.24918042123317719,
+            "water": 0.24882018566131592,
+            "forest": 0.23758864402770996,
+            "farm": 0.23677340149879456
+        },
+        "expanded_image": "./output/image_391_expanded.png"
+    },
+    "image_392": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23970459401607513,
+            "industrial area": 0.2591162919998169,
+            "water": 0.21573945879936218,
+            "forest": 0.22277727723121643,
+            "farm": 0.24657483398914337
+        },
+        "expanded_image": "./output/image_392_expanded.png"
+    },
+    "image_393": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.21717603504657745,
+            "industrial area": 0.22779250144958496,
+            "water": 0.2451198846101761,
+            "forest": 0.23372691869735718,
+            "farm": 0.22147171199321747
+        },
+        "expanded_image": "./output/image_393_expanded.png"
+    },
+    "image_394": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23629027605056763,
+            "industrial area": 0.2516557276248932,
+            "water": 0.24164670705795288,
+            "forest": 0.22839264571666718,
+            "farm": 0.2270929515361786
+        },
+        "expanded_image": "./output/image_394_expanded.png"
+    },
+    "image_395": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2259073257446289,
+            "industrial area": 0.24306273460388184,
+            "water": 0.23894459009170532,
+            "forest": 0.22853983938694,
+            "farm": 0.22208675742149353
+        },
+        "expanded_image": "./output/image_395_expanded.png"
+    },
+    "image_396": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2249024659395218,
+            "industrial area": 0.2505745589733124,
+            "water": 0.2251489758491516,
+            "forest": 0.22676506638526917,
+            "farm": 0.22241565585136414
+        },
+        "expanded_image": "./output/image_396_expanded.png"
+    },
+    "image_397": {
+        "best_class": "water",
+        "scores": {
+            "residential area": 0.2199760377407074,
+            "industrial area": 0.23409532010555267,
+            "water": 0.24206921458244324,
+            "forest": 0.23161448538303375,
+            "farm": 0.22853131592273712
+        },
+        "expanded_image": "./output/image_397_expanded.png"
+    },
+    "image_398": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.2366141676902771,
+            "industrial area": 0.2483704388141632,
+            "water": 0.23111984133720398,
+            "forest": 0.23970723152160645,
+            "farm": 0.24252641201019287
+        },
+        "expanded_image": "./output/image_398_expanded.png"
+    },
+    "image_399": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23241975903511047,
+            "industrial area": 0.24517355859279633,
+            "water": 0.22689050436019897,
+            "forest": 0.22310078144073486,
+            "farm": 0.2236553281545639
+        },
+        "expanded_image": "./output/image_399_expanded.png"
+    },
+    "image_400": {
+        "best_class": "industrial area",
+        "scores": {
+            "residential area": 0.23006968200206757,
+            "industrial area": 0.24191038310527802,
+            "water": 0.22761386632919312,
+            "forest": 0.2414204627275467,
+            "farm": 0.23345069587230682
+        },
+        "expanded_image": "./output/image_400_expanded.png"
+    }
+}
