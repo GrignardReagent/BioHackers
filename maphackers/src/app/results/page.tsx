@@ -126,6 +126,10 @@ export default function Home() {
             </Stack>
           </div>
         </SimpleGrid>
+
+        <div>
+          <Image src={'heathrow.png'} width={'50px'} />
+        </div>
       </div>
     </>
   );

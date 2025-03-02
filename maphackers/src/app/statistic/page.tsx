@@ -1,12 +1,17 @@
 'use client';
 
-import { Box, Button, Checkbox, FileInput, Image, SimpleGrid, Stack, Switch } from "@mantine/core";
+import { Box, Button, Checkbox, FileInput, Image, Input, LoadingOverlay, SimpleGrid, Stack, Switch, Textarea } from "@mantine/core";
 import { useEffect, useRef, useState } from "react";
 import { BarChart } from '@mantine/charts';
 
 export default function Home() {
   const [image, setImage] = useState('https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-7.png');
   const [classCount, setClassCount] = useState<{ key: string; value: unknown }[]>([]);
+  const [visible, setVisible] = useState(false);
+  const [answer, setAnswer] = useState('');
+
+  const question = 'Whatever';
+  const answer_ = `Pros:\nImproved Transportation Convenience: The new runway can alleviate flight congestion, enhancing airport capacity and flight efficiency.\nEconomic Growth: It will boost employment, business, and tourism, increasing regional economic vitality.\nEnhanced International Connectivity: Strengthening Heathrow Airport’s global competitiveness, attracting more flights and commercial activities.\n\nCons:\nEnvironmental Impact: Noise pollution, air pollution, and ecological damage, especially to green spaces and waterways.\nSocial Impact: Nearby residents may be disturbed by noise and pollution, possibly requiring relocation, leading to changes in community structure.\nHigh Costs: The runway construction requires significant investment, which could put pressure on local finances.\n\n Mitigation Strategies:\nNoise Control: Optimize flight paths and install noise barriers.\nEnvironmental Protection: Strengthen ecological restoration and reduce emissions.\nCommunity Compensation: Provide relocation support or resettlement options to reduce social conflicts.`;
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -21,11 +26,13 @@ export default function Home() {
         };
         reader.readAsDataURL(file);
 
+        setVisible(true);
         const response = await fetch('http://localhost:8000/statistic', {
           method: 'POST',
           body: formData,
         });
 
+        setVisible(false);
         if (!response.ok) {
           throw new Error('File upload failed');
         } else {
@@ -68,15 +75,21 @@ export default function Home() {
                   objectFit: 'cover',
                 }}
               />
-            </Box>              
+            </Box>
           </div>
           <div>
+            <LoadingOverlay visible={visible} zIndex={1000} overlayProps={{ radius: "sm", blur: 2 }} />
             <BarChart
               data={classCount}
               color="blue"
-              style={{ height: 300 }} dataKey={"key"} series={[{name: 'value', color: 'violet.6'}]}/>
+              style={{ height: 300 }} dataKey={"key"} series={[{ name: 'value', color: 'violet.6' }]} />
           </div>
         </SimpleGrid>
+      </div>
+      <div className="m-3">
+        <Input defaultValue={question}/>
+        <Button onClick={() => setAnswer(answer_)} m={3}>Ask</Button>
+        <Textarea placeholder="Answer" m={3} value={answer} readOnly rows={20} />
       </div>
     </>
   );
