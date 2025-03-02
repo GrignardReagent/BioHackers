@@ -1,0 +1,1102 @@
+{
+    "image_1": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24570134282112122,
+            "industrial": 0.19536593556404114,
+            "waterway": 0.2404678463935852,
+            "green belt": 0.2581890821456909,
+            "farm": 0.25353410840034485
+        },
+        "scores_image": "./output/image_1_scores.png"
+    },
+    "image_2": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2451060712337494,
+            "industrial": 0.2038072943687439,
+            "waterway": 0.2345057725906372,
+            "green belt": 0.259491503238678,
+            "farm": 0.2519221901893616
+        },
+        "scores_image": "./output/image_2_scores.png"
+    },
+    "image_3": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2367526888847351,
+            "industrial": 0.20660516619682312,
+            "waterway": 0.23173277080059052,
+            "green belt": 0.24378998577594757,
+            "farm": 0.21023774147033691
+        },
+        "scores_image": "./output/image_3_scores.png"
+    },
+    "image_4": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23239344358444214,
+            "industrial": 0.19126300513744354,
+            "waterway": 0.22713467478752136,
+            "green belt": 0.25141799449920654,
+            "farm": 0.21039128303527832
+        },
+        "scores_image": "./output/image_4_scores.png"
+    },
+    "image_5": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23606878519058228,
+            "industrial": 0.2023145854473114,
+            "waterway": 0.2315358966588974,
+            "green belt": 0.25935792922973633,
+            "farm": 0.23625358939170837
+        },
+        "scores_image": "./output/image_5_scores.png"
+    },
+    "image_6": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2515810430049896,
+            "industrial": 0.21121059358119965,
+            "waterway": 0.228946715593338,
+            "green belt": 0.27050095796585083,
+            "farm": 0.2476867288351059
+        },
+        "scores_image": "./output/image_6_scores.png"
+    },
+    "image_7": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2467825710773468,
+            "industrial": 0.20811127126216888,
+            "waterway": 0.23792481422424316,
+            "green belt": 0.2671067416667938,
+            "farm": 0.24178296327590942
+        },
+        "scores_image": "./output/image_7_scores.png"
+    },
+    "image_8": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.27040454745292664,
+            "industrial": 0.21886566281318665,
+            "waterway": 0.23839367926120758,
+            "green belt": 0.25272542238235474,
+            "farm": 0.24336932599544525
+        },
+        "scores_image": "./output/image_8_scores.png"
+    },
+    "image_9": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.27163267135620117,
+            "industrial": 0.22432130575180054,
+            "waterway": 0.2294420748949051,
+            "green belt": 0.2633528709411621,
+            "farm": 0.2521986961364746
+        },
+        "scores_image": "./output/image_9_scores.png"
+    },
+    "image_10": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2501988708972931,
+            "industrial": 0.22152867913246155,
+            "waterway": 0.21382537484169006,
+            "green belt": 0.2468915581703186,
+            "farm": 0.22338628768920898
+        },
+        "scores_image": "./output/image_10_scores.png"
+    },
+    "image_11": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23559091985225677,
+            "industrial": 0.18517230451107025,
+            "waterway": 0.2199738472700119,
+            "green belt": 0.25387680530548096,
+            "farm": 0.2432985007762909
+        },
+        "scores_image": "./output/image_11_scores.png"
+    },
+    "image_12": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2513999044895172,
+            "industrial": 0.19999343156814575,
+            "waterway": 0.2525224983692169,
+            "green belt": 0.2717103064060211,
+            "farm": 0.24095554649829865
+        },
+        "scores_image": "./output/image_12_scores.png"
+    },
+    "image_13": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2439490556716919,
+            "industrial": 0.20499682426452637,
+            "waterway": 0.23441725969314575,
+            "green belt": 0.25099945068359375,
+            "farm": 0.22704841196537018
+        },
+        "scores_image": "./output/image_13_scores.png"
+    },
+    "image_14": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.25854822993278503,
+            "industrial": 0.21644487977027893,
+            "waterway": 0.24757200479507446,
+            "green belt": 0.2797292470932007,
+            "farm": 0.26908037066459656
+        },
+        "scores_image": "./output/image_14_scores.png"
+    },
+    "image_15": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24391724169254303,
+            "industrial": 0.20398962497711182,
+            "waterway": 0.2616077959537506,
+            "green belt": 0.27495309710502625,
+            "farm": 0.24903523921966553
+        },
+        "scores_image": "./output/image_15_scores.png"
+    },
+    "image_16": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.2670285701751709,
+            "industrial": 0.21914079785346985,
+            "waterway": 0.23941722512245178,
+            "green belt": 0.2539619505405426,
+            "farm": 0.27043622732162476
+        },
+        "scores_image": "./output/image_16_scores.png"
+    },
+    "image_17": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2710532248020172,
+            "industrial": 0.22618533670902252,
+            "waterway": 0.23461376130580902,
+            "green belt": 0.2560439109802246,
+            "farm": 0.25783130526542664
+        },
+        "scores_image": "./output/image_17_scores.png"
+    },
+    "image_18": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.27510854601860046,
+            "industrial": 0.2323075532913208,
+            "waterway": 0.23301726579666138,
+            "green belt": 0.2616749107837677,
+            "farm": 0.24830161035060883
+        },
+        "scores_image": "./output/image_18_scores.png"
+    },
+    "image_19": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2888980805873871,
+            "industrial": 0.2222999930381775,
+            "waterway": 0.22953824698925018,
+            "green belt": 0.25853145122528076,
+            "farm": 0.23607054352760315
+        },
+        "scores_image": "./output/image_19_scores.png"
+    },
+    "image_20": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2518429756164551,
+            "industrial": 0.24768421053886414,
+            "waterway": 0.21304254233837128,
+            "green belt": 0.2355503886938095,
+            "farm": 0.24214580655097961
+        },
+        "scores_image": "./output/image_20_scores.png"
+    },
+    "image_21": {
+        "best_class": "waterway",
+        "scores": {
+            "residential": 0.2606433928012848,
+            "industrial": 0.2110573649406433,
+            "waterway": 0.2610757350921631,
+            "green belt": 0.2540038824081421,
+            "farm": 0.23504963517189026
+        },
+        "scores_image": "./output/image_21_scores.png"
+    },
+    "image_22": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2455521821975708,
+            "industrial": 0.21423031389713287,
+            "waterway": 0.2525772452354431,
+            "green belt": 0.259125292301178,
+            "farm": 0.23968535661697388
+        },
+        "scores_image": "./output/image_22_scores.png"
+    },
+    "image_23": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.25307291746139526,
+            "industrial": 0.21880435943603516,
+            "waterway": 0.2458534836769104,
+            "green belt": 0.26493775844573975,
+            "farm": 0.24214008450508118
+        },
+        "scores_image": "./output/image_23_scores.png"
+    },
+    "image_24": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.273741215467453,
+            "industrial": 0.223910391330719,
+            "waterway": 0.24429988861083984,
+            "green belt": 0.2523561120033264,
+            "farm": 0.27326256036758423
+        },
+        "scores_image": "./output/image_24_scores.png"
+    },
+    "image_25": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2853911817073822,
+            "industrial": 0.23888903856277466,
+            "waterway": 0.22807078063488007,
+            "green belt": 0.26076072454452515,
+            "farm": 0.27270951867103577
+        },
+        "scores_image": "./output/image_25_scores.png"
+    },
+    "image_26": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2887020707130432,
+            "industrial": 0.23849280178546906,
+            "waterway": 0.22228316962718964,
+            "green belt": 0.2568773627281189,
+            "farm": 0.2493581473827362
+        },
+        "scores_image": "./output/image_26_scores.png"
+    },
+    "image_27": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.27331382036209106,
+            "industrial": 0.21658188104629517,
+            "waterway": 0.240552619099617,
+            "green belt": 0.26470836997032166,
+            "farm": 0.2502930760383606
+        },
+        "scores_image": "./output/image_27_scores.png"
+    },
+    "image_28": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2800898253917694,
+            "industrial": 0.22558340430259705,
+            "waterway": 0.2518434226512909,
+            "green belt": 0.25828269124031067,
+            "farm": 0.25641316175460815
+        },
+        "scores_image": "./output/image_28_scores.png"
+    },
+    "image_29": {
+        "best_class": "waterway",
+        "scores": {
+            "residential": 0.24924644827842712,
+            "industrial": 0.22731991112232208,
+            "waterway": 0.26211103796958923,
+            "green belt": 0.26013579964637756,
+            "farm": 0.23629623651504517
+        },
+        "scores_image": "./output/image_29_scores.png"
+    },
+    "image_30": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24676525592803955,
+            "industrial": 0.2228483408689499,
+            "waterway": 0.2409755438566208,
+            "green belt": 0.25602737069129944,
+            "farm": 0.22048881649971008
+        },
+        "scores_image": "./output/image_30_scores.png"
+    },
+    "image_31": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.24707719683647156,
+            "industrial": 0.21806931495666504,
+            "waterway": 0.21729981899261475,
+            "green belt": 0.229718416929245,
+            "farm": 0.21858027577400208
+        },
+        "scores_image": "./output/image_31_scores.png"
+    },
+    "image_32": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2667008936405182,
+            "industrial": 0.23380646109580994,
+            "waterway": 0.2198379933834076,
+            "green belt": 0.2533024549484253,
+            "farm": 0.24725764989852905
+        },
+        "scores_image": "./output/image_32_scores.png"
+    },
+    "image_33": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2595975697040558,
+            "industrial": 0.20763662457466125,
+            "waterway": 0.24498170614242554,
+            "green belt": 0.27615684270858765,
+            "farm": 0.26816684007644653
+        },
+        "scores_image": "./output/image_33_scores.png"
+    },
+    "image_34": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23766078054904938,
+            "industrial": 0.21043197810649872,
+            "waterway": 0.24531857669353485,
+            "green belt": 0.25729674100875854,
+            "farm": 0.22639453411102295
+        },
+        "scores_image": "./output/image_34_scores.png"
+    },
+    "image_35": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2756097912788391,
+            "industrial": 0.23000678420066833,
+            "waterway": 0.2421732246875763,
+            "green belt": 0.2653649151325226,
+            "farm": 0.2596991956233978
+        },
+        "scores_image": "./output/image_35_scores.png"
+    },
+    "image_36": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.26945754885673523,
+            "industrial": 0.22357165813446045,
+            "waterway": 0.22471138834953308,
+            "green belt": 0.24611015617847443,
+            "farm": 0.2471195012331009
+        },
+        "scores_image": "./output/image_36_scores.png"
+    },
+    "image_37": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2644389569759369,
+            "industrial": 0.22087065875530243,
+            "waterway": 0.24710135161876678,
+            "green belt": 0.282273530960083,
+            "farm": 0.26580727100372314
+        },
+        "scores_image": "./output/image_37_scores.png"
+    },
+    "image_38": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.25069770216941833,
+            "industrial": 0.2219424694776535,
+            "waterway": 0.22860492765903473,
+            "green belt": 0.26768580079078674,
+            "farm": 0.26580458879470825
+        },
+        "scores_image": "./output/image_38_scores.png"
+    },
+    "image_39": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.22744372487068176,
+            "industrial": 0.21956656873226166,
+            "waterway": 0.2135246992111206,
+            "green belt": 0.228621706366539,
+            "farm": 0.2584150731563568
+        },
+        "scores_image": "./output/image_39_scores.png"
+    },
+    "image_40": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.25394684076309204,
+            "industrial": 0.22653666138648987,
+            "waterway": 0.2414923906326294,
+            "green belt": 0.26182445883750916,
+            "farm": 0.24277263879776
+        },
+        "scores_image": "./output/image_40_scores.png"
+    },
+    "image_41": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.24969571828842163,
+            "industrial": 0.22678108513355255,
+            "waterway": 0.2174217253923416,
+            "green belt": 0.239789217710495,
+            "farm": 0.22604131698608398
+        },
+        "scores_image": "./output/image_41_scores.png"
+    },
+    "image_42": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2657623589038849,
+            "industrial": 0.23493888974189758,
+            "waterway": 0.21781156957149506,
+            "green belt": 0.2442045509815216,
+            "farm": 0.22449393570423126
+        },
+        "scores_image": "./output/image_42_scores.png"
+    },
+    "image_43": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.26576974987983704,
+            "industrial": 0.2415749430656433,
+            "waterway": 0.22593525052070618,
+            "green belt": 0.252326101064682,
+            "farm": 0.22804969549179077
+        },
+        "scores_image": "./output/image_43_scores.png"
+    },
+    "image_44": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.289614200592041,
+            "industrial": 0.21095937490463257,
+            "waterway": 0.2274288386106491,
+            "green belt": 0.26212942600250244,
+            "farm": 0.2378370761871338
+        },
+        "scores_image": "./output/image_44_scores.png"
+    },
+    "image_45": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2734706997871399,
+            "industrial": 0.22305002808570862,
+            "waterway": 0.21734482049942017,
+            "green belt": 0.24808770418167114,
+            "farm": 0.2497744858264923
+        },
+        "scores_image": "./output/image_45_scores.png"
+    },
+    "image_46": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.26253893971443176,
+            "industrial": 0.22501322627067566,
+            "waterway": 0.23422637581825256,
+            "green belt": 0.24961432814598083,
+            "farm": 0.2440071552991867
+        },
+        "scores_image": "./output/image_46_scores.png"
+    },
+    "image_47": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2638668417930603,
+            "industrial": 0.23607617616653442,
+            "waterway": 0.23653903603553772,
+            "green belt": 0.25714659690856934,
+            "farm": 0.2578754127025604
+        },
+        "scores_image": "./output/image_47_scores.png"
+    },
+    "image_48": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.25288838148117065,
+            "industrial": 0.2527056634426117,
+            "waterway": 0.22181670367717743,
+            "green belt": 0.25485095381736755,
+            "farm": 0.2506880760192871
+        },
+        "scores_image": "./output/image_48_scores.png"
+    },
+    "image_49": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2549663186073303,
+            "industrial": 0.23903745412826538,
+            "waterway": 0.21833837032318115,
+            "green belt": 0.24091611802577972,
+            "farm": 0.24593763053417206
+        },
+        "scores_image": "./output/image_49_scores.png"
+    },
+    "image_50": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23704266548156738,
+            "industrial": 0.23036113381385803,
+            "waterway": 0.21390515565872192,
+            "green belt": 0.24570995569229126,
+            "farm": 0.23524631559848785
+        },
+        "scores_image": "./output/image_50_scores.png"
+    },
+    "image_51": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24328181147575378,
+            "industrial": 0.24195900559425354,
+            "waterway": 0.225736603140831,
+            "green belt": 0.2503982186317444,
+            "farm": 0.2500385046005249
+        },
+        "scores_image": "./output/image_51_scores.png"
+    },
+    "image_52": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.25687018036842346,
+            "industrial": 0.2227778434753418,
+            "waterway": 0.22534002363681793,
+            "green belt": 0.25471723079681396,
+            "farm": 0.242643341422081
+        },
+        "scores_image": "./output/image_52_scores.png"
+    },
+    "image_53": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.24925772845745087,
+            "industrial": 0.22749249637126923,
+            "waterway": 0.2117309868335724,
+            "green belt": 0.22577980160713196,
+            "farm": 0.2193630039691925
+        },
+        "scores_image": "./output/image_53_scores.png"
+    },
+    "image_54": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2713377773761749,
+            "industrial": 0.23524874448776245,
+            "waterway": 0.23970243334770203,
+            "green belt": 0.2530877888202667,
+            "farm": 0.2381017506122589
+        },
+        "scores_image": "./output/image_54_scores.png"
+    },
+    "image_55": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.25563135743141174,
+            "industrial": 0.21744635701179504,
+            "waterway": 0.24232298135757446,
+            "green belt": 0.2609935402870178,
+            "farm": 0.22220274806022644
+        },
+        "scores_image": "./output/image_55_scores.png"
+    },
+    "image_56": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.23809067904949188,
+            "industrial": 0.2187575399875641,
+            "waterway": 0.21169856190681458,
+            "green belt": 0.22377662360668182,
+            "farm": 0.2215205281972885
+        },
+        "scores_image": "./output/image_56_scores.png"
+    },
+    "image_57": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2508283853530884,
+            "industrial": 0.2410377711057663,
+            "waterway": 0.2209548056125641,
+            "green belt": 0.24059125781059265,
+            "farm": 0.23671218752861023
+        },
+        "scores_image": "./output/image_57_scores.png"
+    },
+    "image_58": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23541955649852753,
+            "industrial": 0.2291051596403122,
+            "waterway": 0.224898561835289,
+            "green belt": 0.24788901209831238,
+            "farm": 0.22542181611061096
+        },
+        "scores_image": "./output/image_58_scores.png"
+    },
+    "image_59": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2348579466342926,
+            "industrial": 0.23348771035671234,
+            "waterway": 0.21056334674358368,
+            "green belt": 0.24501347541809082,
+            "farm": 0.22000283002853394
+        },
+        "scores_image": "./output/image_59_scores.png"
+    },
+    "image_60": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.25118574500083923,
+            "industrial": 0.22897928953170776,
+            "waterway": 0.23785631358623505,
+            "green belt": 0.26456472277641296,
+            "farm": 0.2435610145330429
+        },
+        "scores_image": "./output/image_60_scores.png"
+    },
+    "image_61": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.242147296667099,
+            "industrial": 0.21546879410743713,
+            "waterway": 0.2325889766216278,
+            "green belt": 0.2605276107788086,
+            "farm": 0.2632765471935272
+        },
+        "scores_image": "./output/image_61_scores.png"
+    },
+    "image_62": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23309016227722168,
+            "industrial": 0.19535742700099945,
+            "waterway": 0.22021733224391937,
+            "green belt": 0.26796332001686096,
+            "farm": 0.26359081268310547
+        },
+        "scores_image": "./output/image_62_scores.png"
+    },
+    "image_63": {
+        "best_class": "industrial",
+        "scores": {
+            "residential": 0.24755527079105377,
+            "industrial": 0.25419461727142334,
+            "waterway": 0.2226599156856537,
+            "green belt": 0.2477581799030304,
+            "farm": 0.2425583302974701
+        },
+        "scores_image": "./output/image_63_scores.png"
+    },
+    "image_64": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.264087438583374,
+            "industrial": 0.22296242415905,
+            "waterway": 0.21999576687812805,
+            "green belt": 0.2368202954530716,
+            "farm": 0.23626311123371124
+        },
+        "scores_image": "./output/image_64_scores.png"
+    },
+    "image_65": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24284914135932922,
+            "industrial": 0.20597271621227264,
+            "waterway": 0.22908352315425873,
+            "green belt": 0.2646630108356476,
+            "farm": 0.25292032957077026
+        },
+        "scores_image": "./output/image_65_scores.png"
+    },
+    "image_66": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.26305773854255676,
+            "industrial": 0.23688268661499023,
+            "waterway": 0.21705102920532227,
+            "green belt": 0.24537496268749237,
+            "farm": 0.22673854231834412
+        },
+        "scores_image": "./output/image_66_scores.png"
+    },
+    "image_67": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.24274897575378418,
+            "industrial": 0.24730701744556427,
+            "waterway": 0.2160230129957199,
+            "green belt": 0.23412996530532837,
+            "farm": 0.25752758979797363
+        },
+        "scores_image": "./output/image_67_scores.png"
+    },
+    "image_68": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.2372971475124359,
+            "industrial": 0.24032142758369446,
+            "waterway": 0.21919219195842743,
+            "green belt": 0.25150176882743835,
+            "farm": 0.25561127066612244
+        },
+        "scores_image": "./output/image_68_scores.png"
+    },
+    "image_69": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24078230559825897,
+            "industrial": 0.22025474905967712,
+            "waterway": 0.2241945117712021,
+            "green belt": 0.25146108865737915,
+            "farm": 0.24389493465423584
+        },
+        "scores_image": "./output/image_69_scores.png"
+    },
+    "image_70": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23312431573867798,
+            "industrial": 0.21927888691425323,
+            "waterway": 0.2029857039451599,
+            "green belt": 0.24169310927391052,
+            "farm": 0.2365909218788147
+        },
+        "scores_image": "./output/image_70_scores.png"
+    },
+    "image_71": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24781695008277893,
+            "industrial": 0.22148576378822327,
+            "waterway": 0.2348552942276001,
+            "green belt": 0.2615370452404022,
+            "farm": 0.2576332688331604
+        },
+        "scores_image": "./output/image_71_scores.png"
+    },
+    "image_72": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24446550011634827,
+            "industrial": 0.21818625926971436,
+            "waterway": 0.227278470993042,
+            "green belt": 0.25370463728904724,
+            "farm": 0.2503899335861206
+        },
+        "scores_image": "./output/image_72_scores.png"
+    },
+    "image_73": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.25561094284057617,
+            "industrial": 0.2186790257692337,
+            "waterway": 0.22906382381916046,
+            "green belt": 0.2527589797973633,
+            "farm": 0.2522695064544678
+        },
+        "scores_image": "./output/image_73_scores.png"
+    },
+    "image_74": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2655431628227234,
+            "industrial": 0.2445926070213318,
+            "waterway": 0.2184409201145172,
+            "green belt": 0.23350167274475098,
+            "farm": 0.23085187375545502
+        },
+        "scores_image": "./output/image_74_scores.png"
+    },
+    "image_75": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.25172045826911926,
+            "industrial": 0.22805249691009521,
+            "waterway": 0.20034609735012054,
+            "green belt": 0.21814000606536865,
+            "farm": 0.21815542876720428
+        },
+        "scores_image": "./output/image_75_scores.png"
+    },
+    "image_76": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.23869407176971436,
+            "industrial": 0.2136991173028946,
+            "waterway": 0.22784729301929474,
+            "green belt": 0.2420603483915329,
+            "farm": 0.23220837116241455
+        },
+        "scores_image": "./output/image_76_scores.png"
+    },
+    "image_77": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.2545021176338196,
+            "industrial": 0.23755615949630737,
+            "waterway": 0.2107267677783966,
+            "green belt": 0.24233976006507874,
+            "farm": 0.2613574266433716
+        },
+        "scores_image": "./output/image_77_scores.png"
+    },
+    "image_78": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2461485117673874,
+            "industrial": 0.225984126329422,
+            "waterway": 0.22313553094863892,
+            "green belt": 0.26040753722190857,
+            "farm": 0.2250843346118927
+        },
+        "scores_image": "./output/image_78_scores.png"
+    },
+    "image_79": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2331331968307495,
+            "industrial": 0.21212652325630188,
+            "waterway": 0.21612903475761414,
+            "green belt": 0.25442126393318176,
+            "farm": 0.20308507978916168
+        },
+        "scores_image": "./output/image_79_scores.png"
+    },
+    "image_80": {
+        "best_class": "industrial",
+        "scores": {
+            "residential": 0.24150118231773376,
+            "industrial": 0.2434828281402588,
+            "waterway": 0.2082328200340271,
+            "green belt": 0.23658442497253418,
+            "farm": 0.2239515334367752
+        },
+        "scores_image": "./output/image_80_scores.png"
+    },
+    "image_81": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.2390516847372055,
+            "industrial": 0.21469715237617493,
+            "waterway": 0.2330952137708664,
+            "green belt": 0.25862449407577515,
+            "farm": 0.2656998336315155
+        },
+        "scores_image": "./output/image_81_scores.png"
+    },
+    "image_82": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.23973116278648376,
+            "industrial": 0.20951960980892181,
+            "waterway": 0.24502596259117126,
+            "green belt": 0.24826189875602722,
+            "farm": 0.2744747996330261
+        },
+        "scores_image": "./output/image_82_scores.png"
+    },
+    "image_83": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2805824279785156,
+            "industrial": 0.221281036734581,
+            "waterway": 0.22446171939373016,
+            "green belt": 0.26816195249557495,
+            "farm": 0.25177958607673645
+        },
+        "scores_image": "./output/image_83_scores.png"
+    },
+    "image_84": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.27721571922302246,
+            "industrial": 0.21341799199581146,
+            "waterway": 0.22417087852954865,
+            "green belt": 0.2572636306285858,
+            "farm": 0.2408880889415741
+        },
+        "scores_image": "./output/image_84_scores.png"
+    },
+    "image_85": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2917197644710541,
+            "industrial": 0.23913602530956268,
+            "waterway": 0.23578782379627228,
+            "green belt": 0.2662622034549713,
+            "farm": 0.2524319291114807
+        },
+        "scores_image": "./output/image_85_scores.png"
+    },
+    "image_86": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2643725872039795,
+            "industrial": 0.23532173037528992,
+            "waterway": 0.2333878129720688,
+            "green belt": 0.24462451040744781,
+            "farm": 0.23106233775615692
+        },
+        "scores_image": "./output/image_86_scores.png"
+    },
+    "image_87": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.2391844093799591,
+            "industrial": 0.23380455374717712,
+            "waterway": 0.21880517899990082,
+            "green belt": 0.25168052315711975,
+            "farm": 0.2559652626514435
+        },
+        "scores_image": "./output/image_87_scores.png"
+    },
+    "image_88": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.2365725338459015,
+            "industrial": 0.24087145924568176,
+            "waterway": 0.21389959752559662,
+            "green belt": 0.2514593005180359,
+            "farm": 0.2571223974227905
+        },
+        "scores_image": "./output/image_88_scores.png"
+    },
+    "image_89": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24207893013954163,
+            "industrial": 0.22648513317108154,
+            "waterway": 0.22589431703090668,
+            "green belt": 0.2638735771179199,
+            "farm": 0.25954151153564453
+        },
+        "scores_image": "./output/image_89_scores.png"
+    },
+    "image_90": {
+        "best_class": "industrial",
+        "scores": {
+            "residential": 0.2348019778728485,
+            "industrial": 0.25572776794433594,
+            "waterway": 0.20638418197631836,
+            "green belt": 0.23545469343662262,
+            "farm": 0.21689623594284058
+        },
+        "scores_image": "./output/image_90_scores.png"
+    },
+    "image_91": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2256278097629547,
+            "industrial": 0.1972268521785736,
+            "waterway": 0.19804039597511292,
+            "green belt": 0.218377947807312,
+            "farm": 0.2096557766199112
+        },
+        "scores_image": "./output/image_91_scores.png"
+    },
+    "image_92": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.2480235993862152,
+            "industrial": 0.22599375247955322,
+            "waterway": 0.2481524646282196,
+            "green belt": 0.23995232582092285,
+            "farm": 0.25108468532562256
+        },
+        "scores_image": "./output/image_92_scores.png"
+    },
+    "image_93": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.28925850987434387,
+            "industrial": 0.23055574297904968,
+            "waterway": 0.23601041734218597,
+            "green belt": 0.27128952741622925,
+            "farm": 0.2441994845867157
+        },
+        "scores_image": "./output/image_93_scores.png"
+    },
+    "image_94": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.28481701016426086,
+            "industrial": 0.23579907417297363,
+            "waterway": 0.2249397337436676,
+            "green belt": 0.2621591091156006,
+            "farm": 0.23666663467884064
+        },
+        "scores_image": "./output/image_94_scores.png"
+    },
+    "image_95": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2884176969528198,
+            "industrial": 0.23085519671440125,
+            "waterway": 0.21868298947811127,
+            "green belt": 0.2533048689365387,
+            "farm": 0.23200415074825287
+        },
+        "scores_image": "./output/image_95_scores.png"
+    },
+    "image_96": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.2633335292339325,
+            "industrial": 0.23452706634998322,
+            "waterway": 0.23815536499023438,
+            "green belt": 0.25560498237609863,
+            "farm": 0.248987078666687
+        },
+        "scores_image": "./output/image_96_scores.png"
+    },
+    "image_97": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.24228301644325256,
+            "industrial": 0.2255791425704956,
+            "waterway": 0.2120283544063568,
+            "green belt": 0.24855268001556396,
+            "farm": 0.23691295087337494
+        },
+        "scores_image": "./output/image_97_scores.png"
+    },
+    "image_98": {
+        "best_class": "farm",
+        "scores": {
+            "residential": 0.23835191130638123,
+            "industrial": 0.2260502576828003,
+            "waterway": 0.20830214023590088,
+            "green belt": 0.2507408857345581,
+            "farm": 0.2575344145298004
+        },
+        "scores_image": "./output/image_98_scores.png"
+    },
+    "image_99": {
+        "best_class": "green belt",
+        "scores": {
+            "residential": 0.2559226155281067,
+            "industrial": 0.21754533052444458,
+            "waterway": 0.22795315086841583,
+            "green belt": 0.2605735957622528,
+            "farm": 0.23195500671863556
+        },
+        "scores_image": "./output/image_99_scores.png"
+    },
+    "image_100": {
+        "best_class": "residential",
+        "scores": {
+            "residential": 0.24480172991752625,
+            "industrial": 0.23590371012687683,
+            "waterway": 0.20908965170383453,
+            "green belt": 0.24085083603858948,
+            "farm": 0.20899103581905365
+        },
+        "scores_image": "./output/image_100_scores.png"
+    }
+}
