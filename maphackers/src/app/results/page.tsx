@@ -131,7 +131,7 @@ export default function Home() {
           </div>
         </SimpleGrid>
         
-        <Button m={3} onClick={() => setShowMagic(true)}>Magic</Button>
+        <Button m={3} onClick={() => setShowMagic(true)}>Predictions</Button>
         <div style={{ display: showMagic ? 'block' : 'none' }}>
           <Title order={2}>Predictions</Title>
           <Textarea placeholder="Predictions" m={3} value={magicResult} readOnly rows={10} />
